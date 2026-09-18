@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2061751910731067539",
+    "created_at": "2026-06-03T12:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T13:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062151838296903795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1449738313540071431",
+          "start": 0,
+          "username": "ez4y2f"
+        },
+        {
+          "end": 18,
+          "id": "1415174766609125380",
+          "start": 8,
+          "username": "kobe_koto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062151838296903795",
+    "in_reply_to_user_id": "1449738313540071431",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062055299100426584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ez4y2f @kobe_koto 看看你的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2061751910731067539",
+        "created_at": "2026-06-03T12:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T13:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062151838296903795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1449738313540071431",
+              "start": 0,
+              "username": "ez4y2f"
+            },
+            {
+              "end": 18,
+              "id": "1415174766609125380",
+              "start": 8,
+              "username": "kobe_koto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062151838296903795",
+        "in_reply_to_user_id": "1449738313540071431",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062055299100426584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ez4y2f @kobe_koto 看看你的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1449738313540071431",
+        "conversation_id": "2061751910731067539",
+        "created_at": "2026-06-03T06:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062055299100426584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1415174766609125380",
+              "start": 0,
+              "username": "kobe_koto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062055299100426584",
+        "in_reply_to_user_id": "1415174766609125380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1330,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061751910731067539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kobe_koto 调整好位置软着是能尿出来的👉👈只不过有时候需要手伸进去挤挤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 302,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 219
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-17T14:05:35.000Z",
+        "description": "D3bug the w0r1d | 狐狗。| AuDHD | they/them | 不登校 | 成分复杂 欢迎来狐狸窝玩 | 🌈🦊🐾🎵💻💡✂^-^里@hd4y2f❤️@ez4y2f\n尽己所能无偿提供技术帮助和减害措施\n有些时候我需要保全自己 抱歉",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 75,
+                "username": "hd4y2f"
+              },
+              {
+                "end": 91,
+                "start": 84,
+                "username": "ez4y2f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "y2.fo",
+                "end": 23,
+                "expanded_url": "https://y2.fo",
+                "start": 0,
+                "url": "https://t.co/X1cdlKbipY"
+              }
+            ]
+          }
+        },
+        "id": "1449738313540071431",
+        "location": "Foxnest",
+        "name": "ez4y2f",
+        "pinned_tweet_id": "2030757444847333657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037204527623888896/z2uuhR7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 171,
+          "like_count": 2191,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 869
+        },
+        "url": "https://t.co/X1cdlKbipY",
+        "username": "ez4y2f",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-14T05:02:24.000Z",
+        "description": "The sand is falling. | 🏳️‍🌈 prefer he/him | 🐾 Fluffy | ⚠️ 無断転載禁止 | 易燃易爆易碎易炸天地无用 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "koto.cc",
+                "end": 23,
+                "expanded_url": "https://koto.cc/",
+                "start": 0,
+                "url": "https://t.co/lzTDNbaYeA"
+              }
+            ]
+          }
+        },
+        "id": "1415174766609125380",
+        "location": "Home Sweet Home",
+        "name": "kobe koto 「不粘锅版」",
+        "pinned_tweet_id": "1936755289711386899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999041572747526144/_NQ8XCVZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 1238,
+          "like_count": 31111,
+          "listed_count": 1,
+          "media_count": 1165,
+          "tweet_count": 7496
+        },
+        "url": "https://t.co/lzTDNbaYeA",
+        "username": "kobe_koto",
+        "verified": false
+      }
+    ]
+  }
+}

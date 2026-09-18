@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2092849937088426066",
+    "created_at": "2026-08-27T05:41:22.000Z",
+    "display_text_range": [
+      0,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T06:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092849937088426066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mirizamurai464…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/mirizamurai4649/status/2092581218797981871",
+          "start": 17,
+          "url": "https://t.co/TRCFSNxDKg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092849937088426066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092581218797981871",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啪啪啪 \n*一阵劲爆的斯拉夫电音 https://t.co/TRCFSNxDKg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 974,
+        "media_key": "3_2092581213869572096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpXhuxaAAAqESs.jpg",
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2092849937088426066",
+        "created_at": "2026-08-27T05:41:22.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T06:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092849937088426066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mirizamurai464…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/mirizamurai4649/status/2092581218797981871",
+              "start": 17,
+              "url": "https://t.co/TRCFSNxDKg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092849937088426066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092581218797981871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啪啪啪 \n*一阵劲爆的斯拉夫电音 https://t.co/TRCFSNxDKg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092581213869572096"
+          ]
+        },
+        "author_id": "1021307568176574464",
+        "conversation_id": "2092581218797981871",
+        "created_at": "2026-08-26T11:53:35.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092581218797981871"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "みんなのカッコいいポージング見せて"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/62uDNeEVfW",
+              "end": 42,
+              "expanded_url": "https://x.com/mirizamurai4649/status/2092581218797981871/photo/1",
+              "media_key": "3_2092581213869572096",
+              "start": 19,
+              "url": "https://t.co/62uDNeEVfW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092581218797981871",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2092581213869572096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 24732,
+          "like_count": 1576,
+          "quote_count": 7,
+          "reply_count": 8,
+          "retweet_count": 134
+        },
+        "reply_settings": "everyone",
+        "text": "#みんなのカッコいいポージング見せて https://t.co/62uDNeEVfW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2092849937088426066",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 625,
+          "like_count": 1855,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-07-23T08:14:34.000Z",
+        "description": "Escape from Tarkov大好きでshturmanをこよなく愛するミリ侍です！           Tarkov装備をメインでサバゲーもやってます!",
+        "id": "1021307568176574464",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2092847794881192290",
+        "name": "ミリ侍",
+        "pinned_tweet_id": "1887414386819793113",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1021307568176574464/1759496609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1656018588971716609/z0bnAZp1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 990,
+          "like_count": 48287,
+          "listed_count": 8,
+          "media_count": 479,
+          "tweet_count": 20750
+        },
+        "url": "",
+        "username": "mirizamurai4649",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

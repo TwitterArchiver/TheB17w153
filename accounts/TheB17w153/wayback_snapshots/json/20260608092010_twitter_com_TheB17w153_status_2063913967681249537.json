@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2063870734427107615",
+    "created_at": "2026-06-08T09:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T10:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063913967681249537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1545898408858161154",
+          "start": 0,
+          "username": "D3XTR0M3TH_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063913967681249537",
+    "in_reply_to_user_id": "1545898408858161154",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063870734427107615",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@D3XTR0M3TH_0w0 😈😈😈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2063870734427107615].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2063870734427107615",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2063870734427107615"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2063870734427107615",
+        "created_at": "2026-06-08T09:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T10:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063913967681249537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1545898408858161154",
+              "start": 0,
+              "username": "D3XTR0M3TH_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063913967681249537",
+        "in_reply_to_user_id": "1545898408858161154",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063870734427107615",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@D3XTR0M3TH_0w0 😈😈😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 318,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-09T22:31:24.000Z",
+        "description": "退役oder，锁推只是防止被推送出去！欢迎互fo\n🏳️‍🌈🏳️‍⚧️💛🤍💜🖤he/they/🐱/猫\n#drugtwt #shtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 50,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 65,
+                "start": 59,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1545898408858161154",
+        "name": "🐱",
+        "pinned_tweet_id": "2045977962999332890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051338286296387587/A6mOoIbE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 1259,
+          "like_count": 6104,
+          "listed_count": 1,
+          "media_count": 572,
+          "tweet_count": 3824
+        },
+        "username": "D3XTR0M3TH_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

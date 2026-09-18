@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2080177405285794035",
+    "created_at": "2026-07-23T09:07:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T10:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080218283807236486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1797247911497244672",
+          "start": 0,
+          "username": "otrolan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080218283807236486",
+    "in_reply_to_user_id": "1797247911497244672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080177405285794035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@otrolan 一👁️兴奋剂吃多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2080177405285794035",
+        "created_at": "2026-07-23T09:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080218283807236486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1797247911497244672",
+              "start": 0,
+              "username": "otrolan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080218283807236486",
+        "in_reply_to_user_id": "1797247911497244672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080177405285794035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@otrolan 一👁️兴奋剂吃多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797247911497244672",
+        "conversation_id": "2080177405285794035",
+        "created_at": "2026-07-23T06:25:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080177405285794035"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080177405285794035",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 285,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我有点怀疑这个社群实际上有一个非常私人的集体，它可能近似于邪教，而且门槛极高\n更恐怖的是我不在这里面，我不知道这里面发生了什么，什么都不知道比什么都在发生更恐怖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 504,
+          "like_count": 1579,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 533
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-02T12:44:44.000Z",
+        "description": "Metro，\nSuburbs，\nCommuters，\nChoo choo chah choo choo chah\n”Just a heads up, I often use translation tools to help me communicate.”",
+        "id": "1797247911497244672",
+        "location": "im where my gps says im not",
+        "name": "Ortolan",
+        "pinned_tweet_id": "2053121236482552290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052587582807224320/XXnLMxLw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 192,
+          "like_count": 7963,
+          "listed_count": 0,
+          "media_count": 289,
+          "tweet_count": 2975
+        },
+        "url": "",
+        "username": "otrolan",
+        "verified": true
+      }
+    ]
+  }
+}

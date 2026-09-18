@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2061709625368731770",
+    "created_at": "2026-06-02T07:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T08:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061709625368731770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1987138845058736133",
+          "start": 3,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061709625368731770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061474860459852014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maipianaini0930: 看过两场后朋克演唱会一次音乐节，根本不好玩，都是一群安分守己的人，可能跟形势也有关系吧，但看伍德斯托克和国外的live观众明显更high。我蹦蹦跳跳几下都会被旁边人阴阳怪气，小红书上是一群唧唧歪歪主办方唧唧歪歪草坪唧唧歪歪天气的人\n\n真…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2061709625368731770",
+        "created_at": "2026-06-02T07:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T08:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061709625368731770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1987138845058736133",
+              "start": 3,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061709625368731770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061474860459852014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maipianaini0930: 看过两场后朋克演唱会一次音乐节，根本不好玩，都是一群安分守己的人，可能跟形势也有关系吧，但看伍德斯托克和国外的live观众明显更high。我蹦蹦跳跳几下都会被旁边人阴阳怪气，小红书上是一群唧唧歪歪主办方唧唧歪歪草坪唧唧歪歪天气的人\n\n真…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2061474860459852014",
+        "created_at": "2026-06-01T15:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T16:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061474860459852014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061474860459852014",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 267,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看过两场后朋克演唱会一次音乐节，根本不好玩，都是一群安分守己的人，可能跟形势也有关系吧，但看伍德斯托克和国外的live观众明显更high。我蹦蹦跳跳几下都会被旁边人阴阳怪气，小红书上是一群唧唧歪歪主办方唧唧歪歪草坪唧唧歪歪天气的人\n\n真没意思，下雨能和其他粉丝在泥潭里打滚就是件有趣的事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 301,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 213
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 297,
+          "like_count": 9985,
+          "listed_count": 2,
+          "media_count": 642,
+          "tweet_count": 4259
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

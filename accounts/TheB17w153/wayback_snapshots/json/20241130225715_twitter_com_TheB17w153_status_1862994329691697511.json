@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849183768445353984",
+    "conversation_id": "1862994329691697511",
+    "created_at": "2024-11-30T22:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T23:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862994329691697511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "15231144",
+          "start": 3,
+          "username": "Ripple__Events"
+        },
+        {
+          "end": 35,
+          "id": "1358265329386852352",
+          "start": 20,
+          "username": "StakeWithPride"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862994329691697511",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 390
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862993731328123129",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ripple__Events: @StakeWithPride We have defeated the SEC, and now it's time for a Massive Pump!\n\nAs a token of appreciation for the com…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "1862994329691697511",
+        "created_at": "2024-11-30T22:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T23:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862994329691697511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "15231144",
+              "start": 3,
+              "username": "Ripple__Events"
+            },
+            {
+              "end": 35,
+              "id": "1358265329386852352",
+              "start": 20,
+              "username": "StakeWithPride"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862994329691697511",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 391
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862993731328123129",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ripple__Events: @StakeWithPride We have defeated the SEC, and now it's time for a Massive Pump!\n\nAs a token of appreciation for the com…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15231144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          }
+        ],
+        "conversation_id": "1862986334991970591",
+        "created_at": "2024-11-30T22:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T23:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862993731328123129"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 213,
+              "start": 209,
+              "tag": "XRP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1358265329386852352",
+              "start": 0,
+              "username": "StakeWithPride"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Click here to Participate!",
+              "display_url": "ripplefinance-promotion.com",
+              "end": 251,
+              "expanded_url": "https://ripplefinance-promotion.com/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 228,
+              "status": 200,
+              "title": "Official XRP Airdrop",
+              "unwound_url": "https://ripplefinance-promotion.com/",
+              "url": "https://t.co/lFU7GBjmIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862993731328123129",
+        "in_reply_to_user_id": "1358265329386852352",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1302,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 391
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862986757714874502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@StakeWithPride We have defeated the SEC, and now it's time for a Massive Pump!\n\nAs a token of appreciation for the community's support during this challenging time, We are launching a GiveAway of 100.000.000 $XRP.\n\nLearn more: https://t.co/lFU7GBjmIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "健全顺直蝈蝻（目前） 农批+撸狗 \n平等地尊重所有人类+无差别攻击其亲属看心情来回切换",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856571385285431296/0al-1Lm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 78
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2008-06-25T13:52:49.000Z",
+        "description": "Our mission is to build breakthrough crypto solutions for a world without economic",
+        "id": "15231144",
+        "name": "Ripple Event",
+        "pinned_tweet_id": "1862788496341033099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862787453322416128/pllwwXSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17937,
+          "following_count": 1798,
+          "like_count": 32017,
+          "listed_count": 160,
+          "media_count": 3871,
+          "tweet_count": 26941
+        },
+        "username": "Ripple__Events",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-07T04:05:07.000Z",
+        "description": "Follow me for Cardano news, alpha, and memes.\n\nPRIDE is mission driven Cardano stake pool operator and steward of decentralization.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "StakeWithPride.com",
+                "end": 23,
+                "expanded_url": "https://StakeWithPride.com",
+                "start": 0,
+                "url": "https://t.co/nZav62KVwx"
+              }
+            ]
+          }
+        },
+        "id": "1358265329386852352",
+        "location": "Cardanoland",
+        "name": "St₳ke with Pride 🌈 SPO & DRep",
+        "pinned_tweet_id": "1862890350400168381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807781206949523456/K6zK0Vaz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19641,
+          "following_count": 2880,
+          "like_count": 156582,
+          "listed_count": 128,
+          "media_count": 3694,
+          "tweet_count": 5834
+        },
+        "url": "https://t.co/nZav62KVwx",
+        "username": "StakeWithPride",
+        "verified": true
+      }
+    ]
+  }
+}

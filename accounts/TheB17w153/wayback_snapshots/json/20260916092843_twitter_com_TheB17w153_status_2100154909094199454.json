@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2100154909094199454",
+    "created_at": "2026-09-16T09:28:43.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100154909094199454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065149033379971072",
+          "start": 0,
+          "username": "Lomyral896444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cutestskittens…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/cutestskittens/status/2100000603103543573",
+          "start": 15,
+          "url": "https://t.co/2UxVnDyem6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100154909094199454",
+    "in_reply_to_user_id": "2065149033379971072",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100000603103543573",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral896444 https://t.co/2UxVnDyem6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8793,
+        "height": 1280,
+        "media_key": "13_2100000586787672064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100000586787672064/img/D_s919qrt5ax688U.jpg",
+        "public_metrics": {
+          "view_count": 20875
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100000586787672064/vid/avc1/320x568/dgVKLGlJ8dVcHc9s.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100000586787672064/vid/avc1/480x852/dKJBlHaszjqzRh_Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100000586787672064/vid/avc1/720x1280/liZ7ADoAsHuvXwPD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100000586787672064/pl/WL3fH3oEWlG5e5Rz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2100154909094199454",
+        "created_at": "2026-09-16T09:28:43.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100154909094199454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cutestskittens…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/cutestskittens/status/2100000603103543573",
+              "start": 15,
+              "url": "https://t.co/2UxVnDyem6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100154909094199454",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100000603103543573",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 https://t.co/2UxVnDyem6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100000586787672064"
+          ]
+        },
+        "author_id": "1794182614896500736",
+        "conversation_id": "2100000603103543573",
+        "created_at": "2026-09-15T23:15:34.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100000603103543573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sqed94L4h5",
+              "end": 23,
+              "expanded_url": "https://x.com/cutestskittens/status/2100000603103543573/video/1",
+              "media_key": "13_2100000586787672064",
+              "start": 0,
+              "url": "https://t.co/sqed94L4h5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100000603103543573",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2100000586787672064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 78971,
+          "like_count": 2908,
+          "quote_count": 40,
+          "reply_count": 9,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sqed94L4h5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2100154909094199454",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 649,
+          "like_count": 2010,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 725
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|INTP/重抑中焦\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit\n碎碎念推，不吸毒|这里是四号机，互关寻回中，下面是匿名提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "Zukawbit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/lomyral",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/lomyral",
+                "start": 0,
+                "url": "https://t.co/WpWmwWAsHM"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100084836908282190",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065149033379971072/1781340520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 482,
+          "like_count": 5044,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1167
+        },
+        "url": "https://t.co/WpWmwWAsHM",
+        "username": "Lomyral896444",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-25T01:44:24.000Z",
+        "description": "cute and adorable kittens ♡",
+        "id": "1794182614896500736",
+        "is_identity_verified": false,
+        "location": "🐾",
+        "most_recent_tweet_id": "2100147932062212162",
+        "name": "cutest kittens",
+        "pinned_tweet_id": "2095932154244956181",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794182614896500736/1771659306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054888937693310976/InFMYL6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12548,
+          "following_count": 5379,
+          "like_count": 1372,
+          "listed_count": 16,
+          "media_count": 402,
+          "tweet_count": 25526
+        },
+        "url": "",
+        "username": "cutestskittens",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

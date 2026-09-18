@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2085759256544915633",
+    "created_at": "2026-08-09T06:04:10.000Z",
+    "display_text_range": [
+      13,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T07:04:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086332693097410635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2020690859948163073",
+          "start": 0,
+          "username": "kageroumado"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086332693097410635",
+    "in_reply_to_user_id": "2020690859948163073",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085759256544915633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kageroumado game theory is good"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2085759256544915633",
+        "created_at": "2026-08-09T06:04:10.000Z",
+        "display_text_range": [
+          13,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T07:04:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086332693097410635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2020690859948163073",
+              "start": 0,
+              "username": "kageroumado"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086332693097410635",
+        "in_reply_to_user_id": "2020690859948163073",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085759256544915633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kageroumado game theory is good"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020690859948163073",
+        "conversation_id": "2085759256544915633",
+        "created_at": "2026-08-07T16:05:32.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-07T17:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085759256544915633"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085759256544915633",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "The prisoner’s dilemma is often seen as this kind of universal human stupidity where *obviously* everyone would be better off if they all just cooperated, so it’s *obviously* irrational. Except they’re prisoners. We put them there because we believed they didn’t belong in the larger society. So why do we see them all getting off easy as something good?\n\nStudents are obviously incentivized to cheat on tests, and having the smartest students be promised pizzas by the richest students would leave everyone in the group better off. And the teachers are also incentivized to let it slide because it would make them look better among peers. And the school is incentivized to inflate its ratings to get even more students and more funding. At every level the local group would be better off at the expense of some larger “collective” that doesn’t even care about them, so why stop?\n\nThe main reason why it rarely happens is that you can’t make a sufficiently large group of people cooperate without them also competing with each other. Students want to have better grades, but they also don’t want grades to be meaningless. Reporting a cheating student won’t make your grades higher, but will allow you to compete without also devaluing the thing you’re competing for. Anti-trust regulations generally grant immunity to the first defector, allowing them to both profit from participating in a cartel *and* to avoid punishment. It’s seemingly unfair, and surely some people oppose such leniency, but it’s what protects the society from their cooperation, which it sees as collusion.\n\nThis irrational competitive drive turns rational the moment you think a few levels up. Everyone would be better off if we all cooperated, except the society itself."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "The prisoner’s dilemma is often seen as this kind of universal human stupidity where *obviously* everyone would be better off if they all just cooperated, so it’s *obviously* irrational. Except they’re prisoners. We put them there because we believed they didn’t belong in the"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2086332693097410635",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 528,
+          "like_count": 1763,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-09T02:47:44.000Z",
+        "description": "the Internet is still around. you can’t see it now, but it’s not like they could just turn it off",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kagerou.glass",
+                "end": 23,
+                "expanded_url": "https://kagerou.glass",
+                "start": 0,
+                "url": "https://t.co/kPkhvFwWQ7"
+              }
+            ]
+          }
+        },
+        "id": "2020690859948163073",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086329909887070377",
+        "name": "Kagerou",
+        "pinned_tweet_id": "2060351905985905133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020690859948163073/1779408195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036597812066967553/B6P50n57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 434,
+          "like_count": 6744,
+          "listed_count": 3,
+          "media_count": 83,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/kPkhvFwWQ7",
+        "username": "kageroumado",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

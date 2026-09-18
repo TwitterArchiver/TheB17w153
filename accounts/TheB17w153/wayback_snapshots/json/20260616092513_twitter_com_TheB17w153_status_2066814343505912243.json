@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2066810968534094264",
+    "created_at": "2026-06-16T09:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T10:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066814343505912243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057729979677548544",
+          "start": 0,
+          "username": "Numiouoo"
+        },
+        {
+          "end": 25,
+          "id": "1638959586140098560",
+          "start": 10,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066814343505912243",
+    "in_reply_to_user_id": "2057729979677548544",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066810968534094264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Numiouoo @jiuyouforwhite 祝福喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2066810959520505856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7JngQaoAAvNZk.jpg",
+        "width": 1239
+      },
+      {
+        "height": 547,
+        "media_key": "3_2066810959524700160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7JngRaoAAWoJR.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2066810968534094264",
+        "created_at": "2026-06-16T09:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066814343505912243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057729979677548544",
+              "start": 0,
+              "username": "Numiouoo"
+            },
+            {
+              "end": 25,
+              "id": "1638959586140098560",
+              "start": 10,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066814343505912243",
+        "in_reply_to_user_id": "2057729979677548544",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066810968534094264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Numiouoo @jiuyouforwhite 祝福喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066810959520505856",
+            "3_2066810959524700160"
+          ]
+        },
+        "author_id": "2057729979677548544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066810968534094264",
+        "created_at": "2026-06-16T09:11:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:11:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066810968534094264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IZw5KK0WVT",
+              "end": 103,
+              "expanded_url": "https://x.com/Numiouoo/status/2066810968534094264/photo/1",
+              "media_key": "3_2066810959520505856",
+              "start": 80,
+              "url": "https://t.co/IZw5KK0WVT"
+            },
+            {
+              "display_url": "pic.x.com/IZw5KK0WVT",
+              "end": 103,
+              "expanded_url": "https://x.com/Numiouoo/status/2066810968534094264/photo/1",
+              "media_key": "3_2066810959524700160",
+              "start": 80,
+              "url": "https://t.co/IZw5KK0WVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066810968534094264",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 没加墙内任何联系方式 没微信 没电话 没QQ 见面前不知道对方长什么鬼样 声音也没听过 就直接快进到一起同居 在上海西渡了🤤🤤 https://t.co/IZw5KK0WVT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "只爱 @Lomyral896444\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 37,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 380,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 304
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-22T07:47:58.000Z",
+        "description": "糯米守护大家🩷爱与和平🩷偏爱:@jiuyouforwhite\n疯狗神经病绝赞死毒虫🩵Sex&Drug&Harm激推🩵互动查成分感兴趣的互fo(互关重生直接d我!)🩵我素non-binary 友跨友全部 🩵请勿私信⚠️⚠️⚠️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 15,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          }
+        },
+        "id": "2057729979677548544",
+        "name": "糯米🍬纸 (4.0寻回互关",
+        "pinned_tweet_id": "2057737015958057252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062168596797923328/CUlw6WHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1227,
+          "following_count": 887,
+          "like_count": 2391,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1807
+        },
+        "username": "Numiouoo",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/药理help/互fo评论/偏爱:@Numiouoo/友跨友同友全部",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "Numiouoo"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 1528,
+          "like_count": 5339,
+          "listed_count": 3,
+          "media_count": 44,
+          "tweet_count": 2385
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

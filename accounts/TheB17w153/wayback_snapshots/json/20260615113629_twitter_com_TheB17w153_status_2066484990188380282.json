@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2066464017712046473",
+    "created_at": "2026-06-15T11:36:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T12:36:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066484990188380282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "1212s1212bs1242"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066484990188380282",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066464017712046473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1212s1212bs1242 哦齁齁齁齁🥵🥵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066464004650991616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2OEEpagAA5DTN.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2066464017712046473",
+        "created_at": "2026-06-15T11:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T12:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066484990188380282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "1212s1212bs1242"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066484990188380282",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066464017712046473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1212s1212bs1242 哦齁齁齁齁🥵🥵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066464004650991616"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2066464017712046473",
+        "created_at": "2026-06-15T10:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066464017712046473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpoeppvFLo",
+              "end": 40,
+              "expanded_url": "https://x.com/1212s1212bs1242/status/2066464017712046473/photo/1",
+              "media_key": "3_2066464004650991616",
+              "start": 17,
+              "url": "https://t.co/ZpoeppvFLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066464017712046473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我还是有特殊技能的，比如说鸭子坐 https://t.co/ZpoeppvFLo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "只爱 @Lomyral896444\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 37,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 361,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 287
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "烟代/我要养只小乌龟/12",
+        "id": "1684269091849404416",
+        "location": "我爱你",
+        "name": "12和他的小乌龟",
+        "pinned_tweet_id": "2065300515202957774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063221220137713664/SfpMGYpr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 924,
+          "like_count": 17338,
+          "listed_count": 1,
+          "media_count": 885,
+          "tweet_count": 10046
+        },
+        "username": "1212s1212bs1242",
+        "verified": false
+      }
+    ]
+  }
+}

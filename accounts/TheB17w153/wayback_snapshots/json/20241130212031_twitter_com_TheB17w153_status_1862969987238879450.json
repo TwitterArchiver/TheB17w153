@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849183768445353984",
+    "conversation_id": "1862969987238879450",
+    "created_at": "2024-11-30T21:20:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T22:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862969987238879450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "4606491854",
+          "start": 3,
+          "username": "Ripple__Event"
+        },
+        {
+          "end": 28,
+          "id": "28292148",
+          "start": 19,
+          "username": "King9999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862969987238879450",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 304
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862969939323150414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ripple__Event: @King9999 We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the community'…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "1862969987238879450",
+        "created_at": "2024-11-30T21:20:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T22:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862969987238879450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "4606491854",
+              "start": 3,
+              "username": "Ripple__Event"
+            },
+            {
+              "end": 28,
+              "id": "28292148",
+              "start": 19,
+              "username": "King9999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862969987238879450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862969939323150414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ripple__Event: @King9999 We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the community'…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4606491854",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          }
+        ],
+        "conversation_id": "1862958105690100081",
+        "created_at": "2024-11-30T21:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T22:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862969939323150414"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "SEC",
+              "probability": 0.8254,
+              "start": 31,
+              "type": "Organization"
+            },
+            {
+              "end": 206,
+              "normalized_text": "XRP",
+              "probability": 0.6501,
+              "start": 204,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 207,
+              "start": 203,
+              "tag": "XRP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "28292148",
+              "start": 0,
+              "username": "King9999"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Click here to Participate!",
+              "display_url": "ripplefinance-promotion.com",
+              "end": 245,
+              "expanded_url": "https://ripplefinance-promotion.com/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 222,
+              "status": 200,
+              "title": "Official XRP Airdrop",
+              "unwound_url": "https://ripplefinance-promotion.com/",
+              "url": "https://t.co/o1wMT9Kh7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862969939323150414",
+        "in_reply_to_user_id": "28292148",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 903,
+          "quote_count": 0,
+          "reply_count": 108,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862958664534913171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@King9999 We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the community's support during this challenging time, we are launching a giveaway of 100,000,000 $XRP!\n\nLearn more: https://t.co/o1wMT9Kh7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "健全顺直蝈蝻（目前） 农批+撸狗 \n平等地尊重所有人类+无差别攻击其亲属看心情来回切换",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856571385285431296/0al-1Lm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 19
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-19T21:28:21.000Z",
+        "description": "Our mission is to build breakthrough crypto solutions for a world without economic",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ripplefinance-promotion.com",
+                "end": 23,
+                "expanded_url": "https://ripplefinance-promotion.com",
+                "start": 0,
+                "url": "https://t.co/08LMIz2llg"
+              }
+            ]
+          }
+        },
+        "id": "4606491854",
+        "name": "Ripple Event",
+        "pinned_tweet_id": "1862575086328229936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862569983269642240/X09YQFxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13649,
+          "following_count": 15,
+          "like_count": 271,
+          "listed_count": 12,
+          "media_count": 69,
+          "tweet_count": 502
+        },
+        "url": "https://t.co/08LMIz2llg",
+        "username": "Ripple__Event",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-02T06:03:44.000Z",
+        "description": "",
+        "id": "28292148",
+        "name": "ZERO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766517780654735360/M9IGoe1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 995,
+          "like_count": 1501,
+          "listed_count": 8,
+          "media_count": 106,
+          "tweet_count": 4006
+        },
+        "username": "King9999",
+        "verified": true
+      }
+    ]
+  }
+}

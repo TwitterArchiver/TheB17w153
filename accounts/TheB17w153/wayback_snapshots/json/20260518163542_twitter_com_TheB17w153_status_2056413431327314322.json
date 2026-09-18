@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2056404977480823109",
+    "created_at": "2026-05-18T16:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T17:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056413431327314322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053116713692966913",
+          "start": 0,
+          "username": "FREUNDIS4021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056413431327314322",
+    "in_reply_to_user_id": "2053116713692966913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056407996813496741",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FREUNDIS4021 考试磕meth吗 那很羡慕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2056404977480823109",
+        "created_at": "2026-05-18T16:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056413431327314322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053116713692966913",
+              "start": 0,
+              "username": "FREUNDIS4021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056413431327314322",
+        "in_reply_to_user_id": "2053116713692966913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056407996813496741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FREUNDIS4021 考试磕meth吗 那很羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053116713692966913",
+        "conversation_id": "2056404977480823109",
+        "created_at": "2026-05-18T16:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T17:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056407996813496741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056407996813496741",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056405740399771825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "@B17w153 原账号被shadowban了｜名字头像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 76,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 57
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:16:39.000Z",
+        "description": "废物daze⭐️卢关寻回中\n提问箱：https://t.co/St6DRfqBjY\n着急的可以直接私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 41,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 18,
+                "url": "https://t.co/St6DRfqBjY"
+              }
+            ]
+          }
+        },
+        "id": "2053116713692966913",
+        "name": "我是废物",
+        "pinned_tweet_id": "2053119419383988699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053117224747945988/DuiogWip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 351,
+          "like_count": 106,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 56
+        },
+        "username": "FREUNDIS4021",
+        "verified": false
+      }
+    ]
+  }
+}

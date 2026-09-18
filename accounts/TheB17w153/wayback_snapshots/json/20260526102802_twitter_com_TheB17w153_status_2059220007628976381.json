@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059108728159531008"
+      ],
+      "media_source_tweet_id": [
+        "2059108870359036095"
+      ]
+    },
+    "author_id": "1571848301594705927",
+    "conversation_id": "2059220007628976381",
+    "created_at": "2026-05-26T10:28:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T11:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059220007628976381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2050073911635894272",
+          "start": 3,
+          "username": "Lomyral114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Us7wYzqM1F",
+          "end": 59,
+          "expanded_url": "https://x.com/Lomyral114514/status/2059108870359036095/photo/1",
+          "media_key": "3_2059108728159531008",
+          "start": 36,
+          "url": "https://t.co/Us7wYzqM1F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059220007628976381",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059108870359036095",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lomyral114514: 我发现阿片可以止痛2.0☝🏻️🤓 https://t.co/Us7wYzqM1F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2700,
+        "media_key": "3_2059108728159531008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNseofa8AA8lBd.jpg",
+        "width": 1552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059108728159531008"
+          ],
+          "media_source_tweet_id": [
+            "2059108870359036095"
+          ]
+        },
+        "author_id": "1571848301594705927",
+        "conversation_id": "2059220007628976381",
+        "created_at": "2026-05-26T10:28:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T11:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059220007628976381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2050073911635894272",
+              "start": 3,
+              "username": "Lomyral114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Us7wYzqM1F",
+              "end": 59,
+              "expanded_url": "https://x.com/Lomyral114514/status/2059108870359036095/photo/1",
+              "media_key": "3_2059108728159531008",
+              "start": 36,
+              "url": "https://t.co/Us7wYzqM1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059220007628976381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059108870359036095",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lomyral114514: 我发现阿片可以止痛2.0☝🏻️🤓 https://t.co/Us7wYzqM1F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059108728159531008"
+          ]
+        },
+        "author_id": "2050073911635894272",
+        "conversation_id": "2059108870359036095",
+        "created_at": "2026-05-26T03:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T04:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059108870359036095"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Us7wYzqM1F",
+              "end": 40,
+              "expanded_url": "https://x.com/Lomyral114514/status/2059108870359036095/photo/1",
+              "media_key": "3_2059108728159531008",
+              "start": 17,
+              "url": "https://t.co/Us7wYzqM1F"
+            },
+            {
+              "display_url": "x.com/TheB17w153/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/TheB17w153/status/2058199986274439673",
+              "start": 41,
+              "url": "https://t.co/M8F6UN2EEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059108870359036095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2963,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058199986274439673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我发现阿片可以止痛2.0☝🏻️🤓 https://t.co/Us7wYzqM1F https://t.co/M8F6UN2EEI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 246,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 150
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-01T04:44:51.000Z",
+        "description": "enby，he/they，无浪漫倾向泛性恋。\nINTP/重抑中焦。\n碎碎念推。不键政，不吸毒，不贩卖任何东西，不提供任何付费服务。\n这里是三号机，互关寻回中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lomyral",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lomyral",
+                "start": 0,
+                "url": "https://t.co/nRrn3eYjVb"
+              }
+            ]
+          }
+        },
+        "id": "2050073911635894272",
+        "location": "The other side of paradise",
+        "name": "Lomyral 3.0(已老实)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050074118356434944/ebr8JW3N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 531,
+          "like_count": 4342,
+          "listed_count": 2,
+          "media_count": 55,
+          "tweet_count": 1328
+        },
+        "url": "https://t.co/nRrn3eYjVb",
+        "username": "Lomyral114514",
+        "verified": false
+      }
+    ]
+  }
+}

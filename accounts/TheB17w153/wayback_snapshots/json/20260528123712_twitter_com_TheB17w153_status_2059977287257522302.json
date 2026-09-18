@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2059977287257522302",
+    "created_at": "2026-05-28T12:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T13:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059977287257522302"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thugdeal_j/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/thugdeal_j/status/2059874271619674435",
+          "start": 6,
+          "url": "https://t.co/VOBSR69t7m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059977287257522302",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059874271619674435",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "雨姐我也要 https://t.co/VOBSR69t7m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2059874260995432448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYkugiaYAAIHdP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2059977287257522302",
+        "created_at": "2026-05-28T12:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059977287257522302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thugdeal_j/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/thugdeal_j/status/2059874271619674435",
+              "start": 6,
+              "url": "https://t.co/VOBSR69t7m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059977287257522302",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059874271619674435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "雨姐我也要 https://t.co/VOBSR69t7m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059874260995432448"
+          ]
+        },
+        "author_id": "1930372253646237699",
+        "conversation_id": "2059874271619674435",
+        "created_at": "2026-05-28T05:47:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059874271619674435"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ntKEdq91eS",
+              "end": 61,
+              "expanded_url": "https://x.com/thugdeal_J/status/2059874271619674435/photo/1",
+              "media_key": "3_2059874260995432448",
+              "start": 38,
+              "url": "https://t.co/ntKEdq91eS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059874271619674435",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 127,
+          "impression_count": 1447936,
+          "like_count": 1515,
+          "quote_count": 41,
+          "reply_count": 80,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "フランス人の友達がタイからマレーシアまで靴の中に入れて持ってきてくれた🙏🏻 https://t.co/ntKEdq91eS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 253,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 170
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-04T21:13:48.000Z",
+        "description": "極蜜 野菜 全国【Signal 2nd group → https://t.co/LIAT5QPm5T】",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "signal.group/#CjQKICNBOjIzF…",
+                "end": 51,
+                "expanded_url": "https://signal.group/#CjQKICNBOjIzFFDPXB8ghexFRDS8z2prh839LAOXAwMPfwACEhBmCmIV7_0kWwuIAeoyDU0n",
+                "start": 28,
+                "url": "https://t.co/LIAT5QPm5T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/thug_042",
+                "end": 23,
+                "expanded_url": "http://t.me/thug_042",
+                "start": 0,
+                "url": "https://t.co/T6oyTs4sPH"
+              }
+            ]
+          }
+        },
+        "id": "1930372253646237699",
+        "name": "Thug",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930537603578945536/UR9D_kbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 32,
+          "like_count": 8,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/T6oyTs4sPH",
+        "username": "thugdeal_J",
+        "verified": false
+      }
+    ]
+  }
+}

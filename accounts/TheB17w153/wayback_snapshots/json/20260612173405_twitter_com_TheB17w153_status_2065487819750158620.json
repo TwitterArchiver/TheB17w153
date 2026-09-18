@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2065487819750158620",
+    "created_at": "2026-06-12T17:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T18:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065487819750158620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2065149033379971072",
+          "start": 4,
+          "username": "Lomyral896444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/anindanet/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/anindanet/status/2065358453682606388",
+          "start": 19,
+          "url": "https://t.co/vl2Admrfmb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065487819750158620",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065358453682606388",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样@Lomyral896444 https://t.co/vl2Admrfmb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12399,
+        "height": 720,
+        "media_key": "13_2027844415897706496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027844415897706496/img/4idiyIDfcCaXLd0h.jpg",
+        "public_metrics": {
+          "view_count": 648174
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027844415897706496/vid/avc1/284x270/cFRH3KJGW0zLZ8za.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027844415897706496/vid/avc1/378x360/GehGY8ZPXG8IvuTM.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027844415897706496/vid/avc1/758x720/yFx98MO1_f2lXBXw.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027844415897706496/pl/VA5Wsys_KBj8BoQ3.m3u8?v=cfc"
+          }
+        ],
+        "width": 758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2065487819750158620",
+        "created_at": "2026-06-12T17:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T18:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065487819750158620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2065149033379971072",
+              "start": 4,
+              "username": "Lomyral896444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/anindanet/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/anindanet/status/2065358453682606388",
+              "start": 19,
+              "url": "https://t.co/vl2Admrfmb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065487819750158620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065358453682606388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样@Lomyral896444 https://t.co/vl2Admrfmb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027844415897706496"
+          ],
+          "media_source_tweet_id": [
+            "2028055646462169236"
+          ]
+        },
+        "author_id": "1920601980638052352",
+        "conversation_id": "2065358453682606388",
+        "created_at": "2026-06-12T09:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065358453682606388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WqEHkSRFAb",
+              "end": 91,
+              "expanded_url": "https://x.com/KoruturkBey/status/2028055646462169236/video/1",
+              "media_key": "13_2027844415897706496",
+              "start": 68,
+              "url": "https://t.co/WqEHkSRFAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065358453682606388",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 514648,
+          "like_count": 1199,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "Husky, yastığın yerini işgal ettiğini düşününce ortaya çıkan sahne… https://t.co/WqEHkSRFAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "只爱 @Lomyral896444\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 37,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 332,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 261
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推。不鉴证，不吸毒，不贩毒，不提供任何付费服务|\n这里是四号机，互关寻回中|三号机：@Lomyral114514|骚b：@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 70,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "TheB17w153"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2065235638568493134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 152,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 55
+        },
+        "username": "Lomyral896444",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T22:09:51.000Z",
+        "description": "⚡️Anlık gelişmeler ve sosyal medyanın gündemine oturan popüler paylaşımlar için takipte kalınız. | İletişim için DM.",
+        "id": "1920601980638052352",
+        "name": "Anında",
+        "pinned_tweet_id": "2065313146466906565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035486270646878208/glqQqbvT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149485,
+          "following_count": 41,
+          "like_count": 8450,
+          "listed_count": 57,
+          "media_count": 5603,
+          "tweet_count": 6545
+        },
+        "username": "anindanet",
+        "verified": true
+      }
+    ]
+  }
+}

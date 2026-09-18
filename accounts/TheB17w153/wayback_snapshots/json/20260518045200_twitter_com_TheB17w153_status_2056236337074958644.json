@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1584479029557481473",
+          "name": "Loans"
+        }
+      }
+    ],
+    "conversation_id": "2056190027215036638",
+    "created_at": "2026-05-18T04:52:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T05:52:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056236337074958644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1806849464386416640",
+          "start": 0,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056236337074958644",
+    "in_reply_to_user_id": "1806849464386416640",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056190027215036638",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangeorange Lean,Loan,Leviathan"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1584479029557481473",
+              "name": "Loans"
+            }
+          }
+        ],
+        "conversation_id": "2056190027215036638",
+        "created_at": "2026-05-18T04:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T05:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056236337074958644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1806849464386416640",
+              "start": 0,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056236337074958644",
+        "in_reply_to_user_id": "1806849464386416640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056190027215036638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangeorange Lean,Loan,Leviathan"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806849464386416640",
+        "conversation_id": "2056190027215036638",
+        "created_at": "2026-05-18T01:47:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056190027215036638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056190027215036638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 563,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为了防止你刷傻请说一个 l 开头 an 结尾的英文词"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "@B17w153 原账号被shadowban了｜名字头像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 76,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "15 y.o.\n尝试不死 | \nbff @maoxian1527 @kxk1388574 @tangeror @mxyzcdb | \n喜欢编程，AI/ML，DIY，meme，写文章，做游戏，做产品，最近在折腾加密货币。(但是日常帖子居多)| \n我不是精神病。|\n微信 orgudev 🚧35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 44,
+                "start": 33,
+                "username": "kxk1388574"
+              },
+              {
+                "end": 54,
+                "start": 45,
+                "username": "tangeror"
+              },
+              {
+                "end": 63,
+                "start": 55,
+                "username": "mxyzcdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子",
+        "pinned_tweet_id": "2055354468758429860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053400102610595840/MxufF7uu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2612,
+          "following_count": 2514,
+          "like_count": 8126,
+          "listed_count": 4,
+          "media_count": 1062,
+          "tweet_count": 7490
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

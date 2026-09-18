@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084009368807522304"
+      ],
+      "media_source_tweet_id": [
+        "2084009373672902979"
+      ]
+    },
+    "author_id": "1571848301594705927",
+    "conversation_id": "2084098529300263004",
+    "created_at": "2026-08-03T02:06:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:06:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084098529300263004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1512261155850719234",
+          "start": 3,
+          "username": "Dormicumproject"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yFVASJwFUH",
+          "end": 58,
+          "expanded_url": "https://x.com/Dormicumproject/status/2084009373672902979/photo/1",
+          "media_key": "3_2084009368807522304",
+          "start": 35,
+          "url": "https://t.co/yFVASJwFUH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084098529300263004",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084009373672902979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dormicumproject: 一緒に一緒に死んでくれる？ https://t.co/yFVASJwFUH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 682,
+        "media_key": "3_2084009368807522304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvjerhbwAAklJI.jpg",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084009368807522304"
+          ]
+        },
+        "author_id": "1512261155850719234",
+        "conversation_id": "2084009373672902979",
+        "created_at": "2026-08-02T20:12:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:12:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084009373672902979"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFVASJwFUH",
+              "end": 37,
+              "expanded_url": "https://x.com/Dormicumproject/status/2084009373672902979/photo/1",
+              "media_key": "3_2084009368807522304",
+              "start": 14,
+              "url": "https://t.co/yFVASJwFUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084009373672902979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 11856,
+          "like_count": 1217,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "一緒に一緒に死んでくれる？ https://t.co/yFVASJwFUH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084009368807522304"
+          ],
+          "media_source_tweet_id": [
+            "2084009373672902979"
+          ]
+        },
+        "author_id": "1571848301594705927",
+        "conversation_id": "2084098529300263004",
+        "created_at": "2026-08-03T02:06:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:06:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084098529300263004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1512261155850719234",
+              "start": 3,
+              "username": "Dormicumproject"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yFVASJwFUH",
+              "end": 58,
+              "expanded_url": "https://x.com/Dormicumproject/status/2084009373672902979/photo/1",
+              "media_key": "3_2084009368807522304",
+              "start": 35,
+              "url": "https://t.co/yFVASJwFUH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084098529300263004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084009373672902979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dormicumproject: 一緒に一緒に死んでくれる？ https://t.co/yFVASJwFUH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 521,
+          "like_count": 1663,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-08T02:48:58.000Z",
+        "description": "心中デートしよ\n\n漫画はここから読めますhttps://t.co/SB66qxQm2S",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/dormicum",
+                "end": 43,
+                "expanded_url": "https://lit.link/dormicum",
+                "start": 20,
+                "url": "https://t.co/SB66qxQm2S"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/dormicum.proje…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/dormicum.project?igsh=NGlsM3ZzOTUybG1w",
+                "start": 0,
+                "url": "https://t.co/FWHJaTWG07"
+              }
+            ]
+          }
+        },
+        "id": "1512261155850719234",
+        "name": "ドルミカム（Dormicum）",
+        "pinned_tweet_id": "2070190566001066011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761010277162864640/PGZHn1CA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172114,
+          "following_count": 0,
+          "like_count": 4712,
+          "listed_count": 683,
+          "media_count": 1303,
+          "tweet_count": 3033
+        },
+        "url": "https://t.co/FWHJaTWG07",
+        "username": "Dormicumproject",
+        "verified": true
+      }
+    ]
+  }
+}

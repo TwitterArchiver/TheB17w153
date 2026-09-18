@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2055679497865695385",
+    "created_at": "2026-05-17T15:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056037585294950703"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053116713692966913",
+          "start": 0,
+          "username": "FREUNDIS4021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056037585294950703",
+    "in_reply_to_user_id": "2053116713692966913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055679721552117934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FREUNDIS4021 建议用英语自言自语捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2055679497865695385",
+        "created_at": "2026-05-17T15:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056037585294950703"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053116713692966913",
+              "start": 0,
+              "username": "FREUNDIS4021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056037585294950703",
+        "in_reply_to_user_id": "2053116713692966913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055679721552117934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FREUNDIS4021 建议用英语自言自语捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053116713692966913",
+        "conversation_id": "2055679497865695385",
+        "created_at": "2026-05-16T16:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055679721552117934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055679721552117934",
+        "in_reply_to_user_id": "2053116713692966913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055679497865695385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "p2其实你把英语拉上来的话就没什么事了，语文按照模版来背就好，所以说理科生多抄错题多复习就好不用太担心啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "@B17w153 原账号被shadowban了｜名字头像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 76,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 40
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:16:39.000Z",
+        "description": "废物daze⭐️卢关寻回中\n提问箱：https://t.co/St6DRfqBjY\n着急的可以直接私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 41,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 18,
+                "url": "https://t.co/St6DRfqBjY"
+              }
+            ]
+          }
+        },
+        "id": "2053116713692966913",
+        "name": "我是废物",
+        "pinned_tweet_id": "2053119419383988699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053117224747945988/DuiogWip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 320,
+          "like_count": 66,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 36
+        },
+        "username": "FREUNDIS4021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2061375202634924307",
+    "created_at": "2026-06-01T09:18:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T10:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061376834051441055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1291704894211186689",
+          "start": 0,
+          "username": "AZLXY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061376834051441055",
+    "in_reply_to_user_id": "1291704894211186689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061375202634924307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AZLXY1 你吃不过我你信不信"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061375188328140800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJt5z-kaUAA7pjM.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2061375202634924307",
+        "created_at": "2026-06-01T09:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061376834051441055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1291704894211186689",
+              "start": 0,
+              "username": "AZLXY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061376834051441055",
+        "in_reply_to_user_id": "1291704894211186689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061375202634924307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AZLXY1 你吃不过我你信不信"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061375188328140800"
+          ]
+        },
+        "author_id": "1291704894211186689",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061375202634924307",
+        "created_at": "2026-06-01T09:12:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T10:12:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061375202634924307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qgS6NxvTet",
+              "end": 26,
+              "expanded_url": "https://x.com/AZLXY1/status/2061375202634924307/photo/1",
+              "media_key": "3_2061375188328140800",
+              "start": 3,
+              "url": "https://t.co/qgS6NxvTet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061375202634924307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好热 https://t.co/qgS6NxvTet"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 281,
+          "like_count": 240,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T11:57:12.000Z",
+        "description": "Chinese,like playing video games and watching Japanese animeゲームとアニメが好きです、よろしく\n想要积极生活但发现自己是烂人，总之尽力在积极生活了\n自伤od药物滥用存在，无性恋倾向（有浪漫倾向）可以的话请fo我喵 ฅ^•ω•^ฅ\n总之会发很多碎碎念和药物",
+        "id": "1291704894211186689",
+        "name": "Arin 是一条咸鱼(ฅ˘꒳˘ฅ)",
+        "pinned_tweet_id": "2025236333711818830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023257481158524929/zAqGcXHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 532,
+          "like_count": 880,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1410
+        },
+        "username": "AZLXY1",
+        "verified": false
+      }
+    ]
+  }
+}

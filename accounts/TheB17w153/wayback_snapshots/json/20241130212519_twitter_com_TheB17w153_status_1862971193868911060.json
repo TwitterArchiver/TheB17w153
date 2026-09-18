@@ -1,0 +1,504 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849183768445353984",
+    "conversation_id": "1862971193868911060",
+    "created_at": "2024-11-30T21:25:19.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T22:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862971193868911060"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 84,
+          "normalized_text": "SEC",
+          "probability": 0.8477,
+          "start": 82,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "4606491854",
+          "start": 3,
+          "username": "Ripple__Event"
+        },
+        {
+          "end": 32,
+          "id": "1451633755366494209",
+          "start": 19,
+          "username": "alain_vegeta"
+        },
+        {
+          "end": 45,
+          "id": "1848307669393620992",
+          "start": 33,
+          "username": "ARMY_XRP589"
+        },
+        {
+          "end": 60,
+          "id": "1035103921994264576",
+          "start": 46,
+          "username": "XRP_community"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862971193868911060",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 298
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862970044184944746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ripple__Event: @alain_vegeta @ARMY_XRP589 @XRP_community We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "1862971193868911060",
+        "created_at": "2024-11-30T21:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T22:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862971193868911060"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 84,
+              "normalized_text": "SEC",
+              "probability": 0.8477,
+              "start": 82,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "4606491854",
+              "start": 3,
+              "username": "Ripple__Event"
+            },
+            {
+              "end": 32,
+              "id": "1451633755366494209",
+              "start": 19,
+              "username": "alain_vegeta"
+            },
+            {
+              "end": 45,
+              "id": "1848307669393620992",
+              "start": 33,
+              "username": "ARMY_XRP589"
+            },
+            {
+              "end": 60,
+              "id": "1035103921994264576",
+              "start": 46,
+              "username": "XRP_community"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862971193868911060",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 298
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862970044184944746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ripple__Event: @alain_vegeta @ARMY_XRP589 @XRP_community We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4606491854",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          }
+        ],
+        "conversation_id": "1862940561293857129",
+        "created_at": "2024-11-30T21:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T22:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862970044184944746"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "SEC",
+              "probability": 0.8047,
+              "start": 63,
+              "type": "Organization"
+            },
+            {
+              "end": 238,
+              "normalized_text": "XRP",
+              "probability": 0.5911,
+              "start": 236,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 239,
+              "start": 235,
+              "tag": "XRP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1451633755366494209",
+              "start": 0,
+              "username": "alain_vegeta"
+            },
+            {
+              "end": 26,
+              "id": "1848307669393620992",
+              "start": 14,
+              "username": "ARMY_XRP589"
+            },
+            {
+              "end": 41,
+              "id": "1035103921994264576",
+              "start": 27,
+              "username": "XRP_community"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Click here to Participate!",
+              "display_url": "ripplefinance-promotion.com",
+              "end": 277,
+              "expanded_url": "https://ripplefinance-promotion.com/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 254,
+              "status": 200,
+              "title": "Official XRP Airdrop",
+              "unwound_url": "https://ripplefinance-promotion.com/",
+              "url": "https://t.co/o1wMT9Kh7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862970044184944746",
+        "in_reply_to_user_id": "1451633755366494209",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 902,
+          "quote_count": 0,
+          "reply_count": 98,
+          "retweet_count": 298
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862948036126687734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alain_vegeta @ARMY_XRP589 @XRP_community We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the community's support during this challenging time, we are launching a giveaway of 100,000,000 $XRP!\n\nLearn more: https://t.co/o1wMT9Kh7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "健全顺直蝈蝻（目前） 农批+撸狗 \n平等地尊重所有人类+无差别攻击其亲属看心情来回切换",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856571385285431296/0al-1Lm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 40
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-19T21:28:21.000Z",
+        "description": "Our mission is to build breakthrough crypto solutions for a world without economic",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ripplefinance-promotion.com",
+                "end": 23,
+                "expanded_url": "https://ripplefinance-promotion.com",
+                "start": 0,
+                "url": "https://t.co/08LMIz2llg"
+              }
+            ]
+          }
+        },
+        "id": "4606491854",
+        "name": "Ripple Event",
+        "pinned_tweet_id": "1862575086328229936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862569983269642240/X09YQFxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13650,
+          "following_count": 15,
+          "like_count": 271,
+          "listed_count": 12,
+          "media_count": 69,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/08LMIz2llg",
+        "username": "Ripple__Event",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-22T19:37:48.000Z",
+        "description": "I am an XRP investor and have now joined the $ARMY community to fight for and with XRP. The loyalty of $ARMY to XRP captivate",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 50,
+                "start": 45,
+                "tag": "ARMY"
+              },
+              {
+                "end": 108,
+                "start": 103,
+                "tag": "ARMY"
+              }
+            ]
+          }
+        },
+        "id": "1451633755366494209",
+        "name": "miner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855774626489487360/3YmfuWXz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 211,
+          "like_count": 4614,
+          "listed_count": 1,
+          "media_count": 765,
+          "tweet_count": 1155
+        },
+        "username": "alain_vegeta",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-21T10:18:01.000Z",
+        "description": "💹🧲 WE WILL PREVAIL. Token now on First Ledger. XRP ARMY.\nToken issuer: rGG3wQ4kUzd7Jnmk1n5NWPZjjut62kCBfC\nhttps://t.co/7FD6Y9MnOU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/army_cto",
+                "end": 129,
+                "expanded_url": "https://linktr.ee/army_cto",
+                "start": 106,
+                "url": "https://t.co/7FD6Y9MnOU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/FirstLedger-Ar…",
+                "end": 23,
+                "expanded_url": "https://bit.ly/FirstLedger-Army_cto",
+                "start": 0,
+                "url": "https://t.co/2xwMoh6Y8D"
+              }
+            ]
+          }
+        },
+        "id": "1848307669393620992",
+        "location": "Ripple",
+        "name": "$ARMY",
+        "pinned_tweet_id": "1861494733656436889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856335277045739520/yw-CbVQy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 143,
+          "like_count": 1338,
+          "listed_count": 7,
+          "media_count": 453,
+          "tweet_count": 789
+        },
+        "url": "https://t.co/2xwMoh6Y8D",
+        "username": "ARMY_XRP589",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-30T09:56:21.000Z",
+        "description": "#xrpcommunity The first adopters of bitcoin went through far worse than we probably ever will. It's just a matter of time now. #XRP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 0,
+                "tag": "xrpcommunity"
+              },
+              {
+                "end": 131,
+                "start": 127,
+                "tag": "XRP"
+              }
+            ]
+          }
+        },
+        "id": "1035103921994264576",
+        "location": "world",
+        "name": "XRPcommunity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1035105364176297984/WT8sx7UR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51173,
+          "following_count": 249,
+          "like_count": 1318,
+          "listed_count": 108,
+          "media_count": 247,
+          "tweet_count": 1987
+        },
+        "username": "XRP_community",
+        "verified": true
+      }
+    ]
+  }
+}

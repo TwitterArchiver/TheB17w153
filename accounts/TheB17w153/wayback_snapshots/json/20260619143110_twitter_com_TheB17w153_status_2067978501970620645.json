@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067978486887919616",
+        "13_2067978486892068864"
+      ]
+    },
+    "author_id": "1571848301594705927",
+    "conversation_id": "2067978501970620645",
+    "created_at": "2026-06-19T14:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067978501970620645"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vcLfHhKSl8",
+          "end": 23,
+          "expanded_url": "https://x.com/TheB17w153/status/2067978501970620645/video/1",
+          "media_key": "3_2067978486887919616",
+          "start": 0,
+          "url": "https://t.co/vcLfHhKSl8"
+        },
+        {
+          "display_url": "pic.x.com/vcLfHhKSl8",
+          "end": 23,
+          "expanded_url": "https://x.com/TheB17w153/status/2067978501970620645/video/1",
+          "media_key": "13_2067978486892068864",
+          "start": 0,
+          "url": "https://t.co/vcLfHhKSl8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067978501970620645",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/vcLfHhKSl8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2067978486887919616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLveioasAAlxWz.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 4416,
+        "height": 1280,
+        "media_key": "13_2067978486892068864",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067978486892068864/img/s1yZbF6HLAbvBDmX.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067978486892068864/vid/avc1/320x568/2eLqZUDdCM0977Ix.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067978486892068864/vid/avc1/480x852/HCuti21LfOxQsD_C.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067978486892068864/vid/avc1/720x1280/86hGTVRKuwTuiBuH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067978486892068864/pl/mF2udv7DUnLt1vHU.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067978486887919616",
+            "13_2067978486892068864"
+          ]
+        },
+        "author_id": "1571848301594705927",
+        "conversation_id": "2067978501970620645",
+        "created_at": "2026-06-19T14:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067978501970620645"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vcLfHhKSl8",
+              "end": 23,
+              "expanded_url": "https://x.com/TheB17w153/status/2067978501970620645/video/1",
+              "media_key": "3_2067978486887919616",
+              "start": 0,
+              "url": "https://t.co/vcLfHhKSl8"
+            },
+            {
+              "display_url": "pic.x.com/vcLfHhKSl8",
+              "end": 23,
+              "expanded_url": "https://x.com/TheB17w153/status/2067978501970620645/video/1",
+              "media_key": "13_2067978486892068864",
+              "start": 0,
+              "url": "https://t.co/vcLfHhKSl8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067978501970620645",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/vcLfHhKSl8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "只爱 @Lomyral896444\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 37,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 442,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      }
+    ]
+  }
+}

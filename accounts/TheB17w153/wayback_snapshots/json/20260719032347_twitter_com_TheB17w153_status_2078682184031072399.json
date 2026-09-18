@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078518096441262080"
+      ],
+      "media_source_tweet_id": [
+        "2078518803441553638"
+      ]
+    },
+    "author_id": "1571848301594705927",
+    "conversation_id": "2078682184031072399",
+    "created_at": "2026-07-19T03:23:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:23:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078682184031072399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2043745937298792448",
+          "start": 3,
+          "username": "ivan20221126"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7AShG7vVIg",
+          "end": 112,
+          "expanded_url": "https://x.com/ivan20221126/status/2078518803441553638/video/1",
+          "media_key": "13_2078518096441262080",
+          "start": 89,
+          "url": "https://t.co/7AShG7vVIg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078682184031072399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078518803441553638",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ivan20221126: 靠…吉他🎸声音一出来我就绷不住了，24高原减害……没有干自己最想做的事，没有见到那批最想见的人，可是我还是没有成长为自己一直想成为的药师😭🎸 https://t.co/7AShG7vVIg"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 51478,
+        "height": 956,
+        "media_key": "13_2078518096441262080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078518096441262080/img/Yy0kJwtrtsZ-JS50.jpg",
+        "public_metrics": {
+          "view_count": 98
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078518096441262080/vid/avc1/320x424/gS-nIz6oLTS-w9Ok.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078518096441262080/vid/avc1/480x636/eADNsqw0oo5T4WWH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078518096441262080/vid/avc1/720x956/IOl5F8Stq-rJbWVp.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078518096441262080/pl/NoZK14BEBC4P_Ekt.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078518096441262080"
+          ]
+        },
+        "author_id": "2043745937298792448",
+        "conversation_id": "2078518803441553638",
+        "created_at": "2026-07-18T16:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078518803441553638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AShG7vVIg",
+              "end": 94,
+              "expanded_url": "https://x.com/ivan20221126/status/2078518803441553638/video/1",
+              "media_key": "13_2078518096441262080",
+              "start": 71,
+              "url": "https://t.co/7AShG7vVIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078518803441553638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "靠…吉他🎸声音一出来我就绷不住了，24高原减害……没有干自己最想做的事，没有见到那批最想见的人，可是我还是没有成长为自己一直想成为的药师😭🎸 https://t.co/7AShG7vVIg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078518096441262080"
+          ],
+          "media_source_tweet_id": [
+            "2078518803441553638"
+          ]
+        },
+        "author_id": "1571848301594705927",
+        "conversation_id": "2078682184031072399",
+        "created_at": "2026-07-19T03:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078682184031072399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2043745937298792448",
+              "start": 3,
+              "username": "ivan20221126"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7AShG7vVIg",
+              "end": 112,
+              "expanded_url": "https://x.com/ivan20221126/status/2078518803441553638/video/1",
+              "media_key": "13_2078518096441262080",
+              "start": 89,
+              "url": "https://t.co/7AShG7vVIg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078682184031072399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078518803441553638",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ivan20221126: 靠…吉他🎸声音一出来我就绷不住了，24高原减害……没有干自己最想做的事，没有见到那批最想见的人，可是我还是没有成长为自己一直想成为的药师😭🎸 https://t.co/7AShG7vVIg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 493,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 516
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T17:39:53.000Z",
+        "description": "戒药戒毒戒推❌💊💉\n三戒保平安🙏🏻🙏🏻🙏🏻\n减害大法好🗿🗿🌞",
+        "id": "2043745937298792448",
+        "location": "乌鲁木齐中路",
+        "name": "超级伊伊伊万#忒伊亚",
+        "pinned_tweet_id": "2070001259625779694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052144771750301696/N6iJMxi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 143,
+          "like_count": 3282,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "ivan20221126",
+        "verified": false
+      }
+    ]
+  }
+}

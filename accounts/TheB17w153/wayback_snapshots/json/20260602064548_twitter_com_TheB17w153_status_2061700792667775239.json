@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2061700792667775239",
+    "created_at": "2026-06-02T06:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T07:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061700792667775239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2020690859948163073",
+          "start": 3,
+          "username": "kageroumado"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/S9c",
+          "end": 139,
+          "start": 123,
+          "url": "https://t.co/S9c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061700792667775239",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061671834529984650",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kageroumado: Working on new graphs for Piru. Claude made a webpage where I can tune constants to get the desired shape https://t.co/S9c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2061671596385882112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJyHZMoX0AAoavx.jpg",
+        "width": 3164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2061700792667775239",
+        "created_at": "2026-06-02T06:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T07:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061700792667775239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2020690859948163073",
+              "start": 3,
+              "username": "kageroumado"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/S9c",
+              "end": 139,
+              "start": 123,
+              "url": "https://t.co/S9c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061700792667775239",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061671834529984650",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kageroumado: Working on new graphs for Piru. Claude made a webpage where I can tune constants to get the desired shape https://t.co/S9c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061671596385882112"
+          ]
+        },
+        "author_id": "2020690859948163073",
+        "conversation_id": "2061671834529984650",
+        "created_at": "2026-06-02T04:50:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T05:50:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061671834529984650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S9caNQjNK2",
+              "end": 129,
+              "expanded_url": "https://x.com/kageroumado/status/2061671834529984650/photo/1",
+              "media_key": "3_2061671596385882112",
+              "start": 106,
+              "url": "https://t.co/S9caNQjNK2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061671834529984650",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Working on new graphs for Piru. Claude made a webpage where I can tune constants to get the desired shape https://t.co/S9caNQjNK2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 298,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T02:47:44.000Z",
+        "description": "the Internet is still around. you can’t see it now, but it’s not like they could just turn it off\nthere is so much code there, it’s like a dream diary",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kagerou.glass",
+                "end": 23,
+                "expanded_url": "https://kagerou.glass",
+                "start": 0,
+                "url": "https://t.co/kPkhvFwWQ7"
+              }
+            ]
+          }
+        },
+        "id": "2020690859948163073",
+        "name": "Kagerou",
+        "pinned_tweet_id": "2060351905985905133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036597812066967553/B6P50n57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 402,
+          "like_count": 5548,
+          "listed_count": 3,
+          "media_count": 48,
+          "tweet_count": 480
+        },
+        "url": "https://t.co/kPkhvFwWQ7",
+        "username": "kageroumado",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2092135506960371739",
+    "created_at": "2026-08-25T15:12:44.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T16:12:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092268948700164434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1891748269853700096",
+          "start": 0,
+          "username": "Entropy149868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092268948700164434",
+    "in_reply_to_user_id": "1891748269853700096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092135506960371739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Entropy149868 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2092135506960371739",
+        "created_at": "2026-08-25T15:12:44.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:12:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092268948700164434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092268948700164434",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092135506960371739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1891748269853700096",
+        "conversation_id": "2092135506960371739",
+        "created_at": "2026-08-25T06:22:29.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T07:22:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092135506960371739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092135506960371739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "没人祝我生日快乐吗？今天我生日"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2092268948700164434",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 627,
+          "like_count": 1853,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 630
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "网哲网左弗洛伊德精神分析荒谬主义前卫摇滚黑金属最喜欢的乐队psychonaut4半建全人强迫症主体倒错药物滥用entp小县城人求互fo查成分互fo门槛妹。匿名提问https://t.co/8AjoSO1NNL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/entropy3159",
+                "end": 104,
+                "expanded_url": "https://ngl.link/entropy3159",
+                "start": 81,
+                "url": "https://t.co/8AjoSO1NNL"
+              }
+            ]
+          }
+        },
+        "id": "1891748269853700096",
+        "is_identity_verified": false,
+        "location": "精神病院",
+        "most_recent_tweet_id": "2092176072360280360",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2088933362153263390",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065018755500183552/wI9ArtXA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 440,
+          "like_count": 1468,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 661
+        },
+        "url": "",
+        "username": "Entropy149868",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

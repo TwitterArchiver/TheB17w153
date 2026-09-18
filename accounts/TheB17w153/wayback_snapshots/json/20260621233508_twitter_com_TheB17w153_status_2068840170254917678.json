@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2068463988955136405",
+    "created_at": "2026-06-21T23:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T00:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068840170254917678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2998529749",
+          "start": 0,
+          "username": "STULRS"
+        },
+        {
+          "end": 19,
+          "id": "1754774517594181632",
+          "start": 8,
+          "username": "ValenceLab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068840170254917678",
+    "in_reply_to_user_id": "2998529749",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068752301117055261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STULRS @ValenceLab"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2068463988955136405",
+        "created_at": "2026-06-21T23:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T00:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068840170254917678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2998529749",
+              "start": 0,
+              "username": "STULRS"
+            },
+            {
+              "end": 19,
+              "id": "1754774517594181632",
+              "start": 8,
+              "username": "ValenceLab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068840170254917678",
+        "in_reply_to_user_id": "2998529749",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068752301117055261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STULRS @ValenceLab"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2998529749",
+        "conversation_id": "2068463988955136405",
+        "created_at": "2026-06-21T17:45:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T18:45:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068752301117055261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068752301117055261",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068463988955136405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 哪买的，我想买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 461,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-27T15:32:27.000Z",
+        "description": "重生2.0（11年）|躁郁|抽烟|受虐|od|戒割|悲观|地下影片（理解能力有问题，冒泡勿喷）  不接线下  今年100大寿",
+        "id": "2998529749",
+        "location": "宇宙的这一端",
+        "name": "喵大王",
+        "pinned_tweet_id": "2062845256304120062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063013655164456960/rPLO7_K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 561,
+          "like_count": 41915,
+          "listed_count": 1,
+          "media_count": 347,
+          "tweet_count": 12732
+        },
+        "url": "",
+        "username": "STULRS",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥频道链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceRC_cp",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceRC_cp",
+                "start": 0,
+                "url": "https://t.co/3X53fRNTwL"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2054393417166434678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 203,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 392
+        },
+        "url": "https://t.co/3X53fRNTwL",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

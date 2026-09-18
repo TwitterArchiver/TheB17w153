@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2094495532802859198",
+    "created_at": "2026-08-31T18:40:23.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T19:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094495532802859198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2065149033379971072",
+          "start": 3,
+          "username": "Lomyral896444"
+        },
+        {
+          "end": 30,
+          "id": "1571848301594705927",
+          "start": 19,
+          "username": "TheB17w153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094495532802859198",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094495473809957269",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lomyral896444: @TheB17w153 要、要被草饲了，！🖐️️😭🤚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2094495532802859198",
+        "created_at": "2026-08-31T18:40:23.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094495532802859198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2065149033379971072",
+              "start": 3,
+              "username": "Lomyral896444"
+            },
+            {
+              "end": 30,
+              "id": "1571848301594705927",
+              "start": 19,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094495532802859198",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094495473809957269",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lomyral896444: @TheB17w153 要、要被草饲了，！🖐️️😭🤚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065149033379971072",
+        "conversation_id": "2094474151264473388",
+        "created_at": "2026-08-31T18:40:09.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094495473809957269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094495473809957269",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094474151264473388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 要、要被草饲了，！🖐️️😭🤚"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2094495532802859198",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 642,
+          "like_count": 1924,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 658
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|INTP/重抑中焦\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit\n碎碎念推，不吸毒|这里是四号机，互关寻回中，下面是匿名提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 37,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "Zukawbit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/lomyral",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/lomyral",
+                "start": 0,
+                "url": "https://t.co/WpWmwWAsHM"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094495483620389060",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065149033379971072/1781340520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 486,
+          "like_count": 5050,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 1151
+        },
+        "url": "https://t.co/WpWmwWAsHM",
+        "username": "Lomyral896444",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

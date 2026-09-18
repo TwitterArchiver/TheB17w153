@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2058581236231369196",
+    "created_at": "2026-05-25T14:14:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:14:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058914548976177656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2031954172732719112",
+          "start": 0,
+          "username": "Minastear030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058914548976177656",
+    "in_reply_to_user_id": "2031954172732719112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058914368092508306",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minastear030 我这边准备拼车批发点当囤囤鼠 你要来不"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2058581236231369196",
+        "created_at": "2026-05-25T14:14:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058914548976177656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2031954172732719112",
+              "start": 0,
+              "username": "Minastear030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058914548976177656",
+        "in_reply_to_user_id": "2031954172732719112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058914368092508306",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minastear030 我这边准备拼车批发点当囤囤鼠 你要来不"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031954172732719112",
+        "conversation_id": "2058581236231369196",
+        "created_at": "2026-05-25T14:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058914368092508306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058914368092508306",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058581236231369196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 是这样的用过一次惊为天人…请问现在还有谁在卖吗这个我是真想要🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 238,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 141
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T04:43:39.000Z",
+        "description": "前世@minastear1︱艰难找回互关中︱18↑︱荒诞主义者︱oder︱友跨顺女泛性恋︱之前这里有一段个性签名但是我忘了是什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "minastear1"
+              }
+            ]
+          }
+        },
+        "id": "2031954172732719112",
+        "location": "Eden",
+        "name": "Minastear",
+        "pinned_tweet_id": "2032141633345712556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032141006750302211/tUre2IlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 118,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 124
+        },
+        "username": "Minastear030",
+        "verified": false
+      }
+    ]
+  }
+}

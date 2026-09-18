@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2080446178785890465",
+    "created_at": "2026-07-24T00:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T01:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080446178785890465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065149033379971072",
+          "start": 0,
+          "username": "Lomyral896444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/heyreze/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/heyreze/status/2080178849485099118",
+          "start": 15,
+          "url": "https://t.co/HedhLorDQo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080446178785890465",
+    "in_reply_to_user_id": "2065149033379971072",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080178849485099118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lomyral896444 https://t.co/HedhLorDQo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1113,
+        "media_key": "3_2074546461287809024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpFA98agAAHpVa.jpg",
+        "width": 1114
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2080446178785890465",
+        "created_at": "2026-07-24T00:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T01:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080446178785890465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/heyreze/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/heyreze/status/2080178849485099118",
+              "start": 15,
+              "url": "https://t.co/HedhLorDQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080446178785890465",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080178849485099118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 https://t.co/HedhLorDQo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074546461287809024"
+          ]
+        },
+        "author_id": "1951924643322798080",
+        "conversation_id": "2080178849485099118",
+        "created_at": "2026-07-23T06:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080178849485099118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TcC7DGspe9",
+              "end": 23,
+              "expanded_url": "https://x.com/heyReze/status/2080178849485099118/photo/1",
+              "media_key": "3_2074546461287809024",
+              "start": 0,
+              "url": "https://t.co/TcC7DGspe9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080178849485099118",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 3730,
+          "like_count": 238,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TcC7DGspe9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 513,
+          "like_count": 1588,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 538
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they(他/ta)|\nINTP/重抑中焦|\n碎碎念推，不吸毒|\n这里是四号机，互关寻回中|\n最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit|下面是匿名提问箱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 63,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 89,
+                "start": 80,
+                "username": "Zukawbit"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/lomyral",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/lomyral",
+                "start": 0,
+                "url": "https://t.co/WpWmwWB0xk"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 471,
+          "like_count": 4089,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/WpWmwWB0xk",
+        "username": "Lomyral896444",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-03T08:34:48.000Z",
+        "description": "reze fan (⁠≧⁠▽⁠≦⁠)",
+        "id": "1951924643322798080",
+        "name": "☆",
+        "pinned_tweet_id": "2044120256067551336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033577338185912320/dJp3ox2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4800,
+          "following_count": 514,
+          "like_count": 4888,
+          "listed_count": 9,
+          "media_count": 1386,
+          "tweet_count": 2001
+        },
+        "url": "",
+        "username": "heyReze",
+        "verified": true
+      }
+    ]
+  }
+}

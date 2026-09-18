@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2057831946550702493",
+    "created_at": "2026-05-22T14:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T15:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057831946550702493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044496192734666752",
+          "start": 3,
+          "username": "UWATCHLIFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057831946550702493",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056614934109470784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UWATCHLIFE: 药圈广为流传的阿片类无效的迷思其实只是这个圈子从不在意剂量无所谓地过量服用的文化的结果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2057831946550702493",
+        "created_at": "2026-05-22T14:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057831946550702493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044496192734666752",
+              "start": 3,
+              "username": "UWATCHLIFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057831946550702493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056614934109470784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UWATCHLIFE: 药圈广为流传的阿片类无效的迷思其实只是这个圈子从不在意剂量无所谓地过量服用的文化的结果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044496192734666752",
+        "conversation_id": "2056614934109470784",
+        "created_at": "2026-05-19T05:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T06:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056614934109470784"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056614934109470784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2542,
+          "like_count": 32,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "药圈广为流传的阿片类无效的迷思其实只是这个圈子从不在意剂量无所谓地过量服用的文化的结果"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "03 男 \n@B17w153 原账号被shadowban了\n名字头 像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 86,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 81
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-15T19:21:15.000Z",
+        "description": "人类如风般的自由，难道你也要干涉？                         本账号为粉丝账号，并非谁的附庸，谢绝波及无关者3q2x",
+        "id": "2044496192734666752",
+        "location": "三浦海峡",
+        "name": "ominous",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044499678767812608/fAInAu5C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 81,
+          "like_count": 750,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 617
+        },
+        "username": "UWATCHLIFE",
+        "verified": false
+      }
+    ]
+  }
+}

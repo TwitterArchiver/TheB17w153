@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2094640623550910706",
+    "created_at": "2026-09-01T04:17:53.000Z",
+    "display_text_range": [
+      10,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T05:17:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094640863326642404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1493016356182056961",
+          "start": 0,
+          "username": "Mintink3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094640863326642404",
+    "in_reply_to_user_id": "1493016356182056961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094640623550910706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mintink3 是这样的，待在一起就嫌烦，真要走了又不乐意，感觉是生活太不如意也没能力只能打压孩子，自我感动的同时还有出气筒可以打压，只想把孩子捆在身边当玩具甚至工具"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2094640623550910706",
+        "created_at": "2026-09-01T04:17:53.000Z",
+        "display_text_range": [
+          10,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:17:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094640863326642404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1493016356182056961",
+              "start": 0,
+              "username": "Mintink3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094640863326642404",
+        "in_reply_to_user_id": "1493016356182056961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094640623550910706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mintink3 是这样的，待在一起就嫌烦，真要走了又不乐意，感觉是生活太不如意也没能力只能打压孩子，自我感动的同时还有出气筒可以打压，只想把孩子捆在身边当玩具甚至工具"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493016356182056961",
+        "conversation_id": "2094640623550910706",
+        "created_at": "2026-09-01T04:16:55.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:09:05.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094638651653362170",
+          "2094640238694174798",
+          "2094640623550910706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094640623550910706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大 但是她说她考过了国家心理咨询师二级证书 她说她很健全 都是我才心理有问题\n\n我真的受不了\n\n我本来就是受不了她在家经常因为我晾衣服的时候衣服没扯平衣角而让我跪着四个小时一直骂我才跑出来生活的\n\n但是没办法我还是没法脱离原生家庭 我妈妈现在每个月还要找我要钱\n\n我发誓以上我说的都是真的\n\n这真的太窒息了\n\n我妈妈已经报警抓我差不多10次了 \n\n我曾经因为被报警太多次 被室友嫌弃闹掰了 我现在独居"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "太窒息了 太绝望了 \n\n昨天睡了5小时今天睡了3小时 被我妈强制打电话叫醒查岗\n\n我都离家出来这么久了还天天查岗 我不接电话就报警（她只是问我吃饭了没有和在干什么）\n\n我刚离开家去北京的一个月她甚至平均每天给我打11个电话 最多一天22个电话\n\n我一直觉得我妈精神问题比我大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2094640863326642404",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 642,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 666
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-14T00:17:01.000Z",
+        "description": "09 166cm 41kg 性冷淡 重度焦虑 重度睡眠障碍💊休学做夜场 会fo同类和感兴趣的",
+        "id": "1493016356182056961",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2094640623550910706",
+        "name": "Beatrice",
+        "pinned_tweet_id": "2094060987481837990",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493016356182056961/1782402163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082516064773242880/k6m-rV3E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 1121,
+          "like_count": 10707,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1507
+        },
+        "url": "",
+        "username": "Mintink3",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

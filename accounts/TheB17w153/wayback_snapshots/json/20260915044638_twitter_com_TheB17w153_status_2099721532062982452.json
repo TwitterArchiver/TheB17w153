@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2099721532062982452",
+    "created_at": "2026-09-15T04:46:38.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T05:46:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099721532062982452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1205458110812499968",
+          "start": 3,
+          "username": "Mascaraxdd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099721532062982452",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2077
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099266349851660506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mascaraxdd: los baños no deberian separarse por genero ni genital, deberian separarse por lo q se va a hacer en ellos\n\nuno para cagar,…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2099721532062982452",
+        "created_at": "2026-09-15T04:46:38.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T05:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099721532062982452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1205458110812499968",
+              "start": 3,
+              "username": "Mascaraxdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099721532062982452",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2077
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099266349851660506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mascaraxdd: los baños no deberian separarse por genero ni genital, deberian separarse por lo q se va a hacer en ellos\n\nuno para cagar,…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1205458110812499968",
+        "conversation_id": "2099266349851660506",
+        "created_at": "2026-09-13T22:37:54.000Z",
+        "display_text_range": [
+          0,
+          196
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T23:37:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099266349851660506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099266349851660506",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 468,
+          "impression_count": 208617,
+          "like_count": 26339,
+          "quote_count": 74,
+          "reply_count": 63,
+          "retweet_count": 2077
+        },
+        "reply_settings": "everyone",
+        "text": "los baños no deberian separarse por genero ni genital, deberian separarse por lo q se va a hacer en ellos\n\nuno para cagar, uno para mear, uno para arreglarse en el espejo, y uno para drogas y sexo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2099721532062982452",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 649,
+          "like_count": 1995,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 716
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-13T12:03:21.000Z",
+        "description": "#1 porn hater. mi opinion es lo mas woke q se te ocurra. agenero, enbian, she/they. peluquera. 24tacos de momento. the game. mi paypal aqui⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/fumacoches",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/fumacoches",
+                "start": 0,
+                "url": "https://t.co/c6vGXEDVMu"
+              }
+            ]
+          }
+        },
+        "id": "1205458110812499968",
+        "is_identity_verified": false,
+        "location": "asturias creo?",
+        "most_recent_tweet_id": "2099633387988205993",
+        "name": "⭒☆Fumacoches⭒☆⭒Nightcore☆⭒",
+        "pinned_tweet_id": "1749904982730473893",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1205458110812499968/1778536162",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086212164231016448/1yymYTUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2791,
+          "following_count": 3035,
+          "like_count": 291917,
+          "listed_count": 19,
+          "media_count": 14770,
+          "tweet_count": 191309
+        },
+        "url": "https://t.co/c6vGXEDVMu",
+        "username": "Mascaraxdd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

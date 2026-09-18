@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849183768445353984",
+    "conversation_id": "1856031499063329247",
+    "created_at": "2024-11-12T19:10:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-12T20:10:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1856414395963977874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "766170278",
+          "start": 0,
+          "username": "wflbbqiufangguo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1856414395963977874",
+    "in_reply_to_user_id": "766170278",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1856031499063329247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wflbbqiufangguo 经典化源商城"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1856031499063329247].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1856031499063329247",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1856031499063329247"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "1856031499063329247",
+        "created_at": "2024-11-12T19:10:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-12T20:10:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1856414395963977874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "766170278",
+              "start": 0,
+              "username": "wflbbqiufangguo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1856414395963977874",
+        "in_reply_to_user_id": "766170278",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1856031499063329247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wflbbqiufangguo 经典化源商城"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849185620649979904/bpScsM3t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 26,
+          "like_count": 71,
+          "listed_count": 0,
+          "tweet_count": 7
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-18T18:28:33.000Z",
+        "description": "唉 总是被殉情都过不了正常的生活咯",
+        "id": "766170278",
+        "name": "DecmissU-",
+        "pinned_tweet_id": "1804251717887984016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854385706829074433/DhvJImDg_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 79,
+          "like_count": 204,
+          "listed_count": 0,
+          "tweet_count": 70
+        },
+        "username": "wflbbqiufangguo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849183768445353984",
+    "conversation_id": "1876294384842572164",
+    "created_at": "2025-01-10T17:43:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T18:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877773266049454131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3022697779",
+          "start": 0,
+          "username": "RXdruglab"
+        },
+        {
+          "end": 27,
+          "id": "1489988682673434626",
+          "start": 11,
+          "username": "InterAnnihilate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877773266049454131",
+    "in_reply_to_user_id": "3022697779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876295241885774217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXdruglab @InterAnnihilate 盐酸盐的话参考crack的掺苏打和水转为游离碱的形式吸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "1876294384842572164",
+        "created_at": "2025-01-10T17:43:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T18:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877773266049454131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3022697779",
+              "start": 0,
+              "username": "RXdruglab"
+            },
+            {
+              "end": 27,
+              "id": "1489988682673434626",
+              "start": 11,
+              "username": "InterAnnihilate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877773266049454131",
+        "in_reply_to_user_id": "3022697779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876295241885774217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXdruglab @InterAnnihilate 盐酸盐的话参考crack的掺苏打和水转为游离碱的形式吸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3022697779",
+        "conversation_id": "1876294384842572164",
+        "created_at": "2025-01-06T15:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T16:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876295241885774217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1489988682673434626",
+              "start": 0,
+              "username": "InterAnnihilate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876295241885774217",
+        "in_reply_to_user_id": "1489988682673434626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876294653940732187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@InterAnnihilate 我还真没想过这个问题，想来应该是这个因素，这个有办法吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "健全顺直蝈蝻（目前） 农批+撸狗 \n平等地尊重所有人类+无差别攻击其亲属看心情来回切换",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856571385285431296/0al-1Lm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 36,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 99
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-16T15:27:54.000Z",
+        "description": "本账号不一定什么时候就没，请添加下方网址的telegram频道以获得持续更新。\n以禁毒、法律教育及损害减少（harm reduction）为目的，通过非世俗及去道德的理念，追求真实的知识与反馈。除替代为目的，部分良性物质，以及特殊情况下的损害减少，不推荐任何人摄入我提及的物质。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/XDrugLab",
+                "end": 23,
+                "expanded_url": "https://t.me/XDrugLab",
+                "start": 0,
+                "url": "https://t.co/71vzzaVErr"
+              }
+            ]
+          }
+        },
+        "id": "3022697779",
+        "name": "药物实验室",
+        "pinned_tweet_id": "1861564676557152611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854259369203879954/nxgmCDHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2738,
+          "following_count": 15,
+          "like_count": 7,
+          "listed_count": 3,
+          "media_count": 20,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/71vzzaVErr",
+        "username": "RXdruglab",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-05T15:46:18.000Z",
+        "description": "Nihilist, Alt Left, Weirdo, Nerd, Incel, psychopath",
+        "id": "1489988682673434626",
+        "name": "Anarcho-Nihlist归来丨🧠↑🀄，，，丨大爱小福泥🦊",
+        "pinned_tweet_id": "1862613598939619464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866501379742941184/D_rUctNE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 2423,
+          "like_count": 10124,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1320
+        },
+        "username": "InterAnnihilate",
+        "verified": false
+      }
+    ]
+  }
+}

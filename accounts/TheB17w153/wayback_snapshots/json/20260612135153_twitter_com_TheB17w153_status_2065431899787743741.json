@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2065365692078276938",
+    "created_at": "2026-06-12T13:51:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T14:51:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065431899787743741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065431899787743741",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065365692078276938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 没吃的赶紧戒"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13329,
+        "height": 852,
+        "media_key": "7_2065275762887012352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065275762887012352/pu/img/ZxVKYqIq069To2At.jpg",
+        "public_metrics": {
+          "view_count": 1222
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065275762887012352/pu/vid/avc1/320x472/8rK76flqUaT1YHGN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065275762887012352/pu/vid/avc1/480x710/-4AKiN5GJDKA-cv1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065275762887012352/pu/vid/avc1/576x852/ZpZHen7n4qJudnID.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065275762887012352/pu/pl/sX_MTSLBLN-8I1k7.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2065365692078276938",
+        "created_at": "2026-06-12T13:51:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T14:51:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065431899787743741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065431899787743741",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065365692078276938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 没吃的赶紧戒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065275762887012352"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2065365692078276938",
+        "created_at": "2026-06-12T09:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065365692078276938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzCQw5d8cS",
+              "end": 32,
+              "expanded_url": "https://x.com/anblk984/status/2065365692078276938/video/1",
+              "media_key": "7_2065275762887012352",
+              "start": 9,
+              "url": "https://t.co/ZzCQw5d8cS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065365692078276938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2666,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "撩开头发真没绷住 https://t.co/ZzCQw5d8cS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "什么他妈的叫你把猫给配了？！@Lomyral896444\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 48,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 130,
+                "start": 122,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 331,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 254
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15173,
+          "following_count": 1035,
+          "like_count": 121929,
+          "listed_count": 70,
+          "media_count": 2998,
+          "tweet_count": 29486
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

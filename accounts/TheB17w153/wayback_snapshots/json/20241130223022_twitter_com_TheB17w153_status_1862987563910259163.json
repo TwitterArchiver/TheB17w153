@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849183768445353984",
+    "conversation_id": "1862987563910259163",
+    "created_at": "2024-11-30T22:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T23:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862987563910259163"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "85605300",
+          "start": 3,
+          "username": "Ripple__EventX"
+        },
+        {
+          "end": 27,
+          "id": "1529796991",
+          "start": 20,
+          "username": "RizXRP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862987563910259163",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 373
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862986340322660581",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ripple__EventX: @RizXRP We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the community's…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "1862987563910259163",
+        "created_at": "2024-11-30T22:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T23:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862987563910259163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "85605300",
+              "start": 3,
+              "username": "Ripple__EventX"
+            },
+            {
+              "end": 27,
+              "id": "1529796991",
+              "start": 20,
+              "username": "RizXRP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862987563910259163",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 373
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862986340322660581",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ripple__EventX: @RizXRP We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the community's…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "85605300",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          }
+        ],
+        "conversation_id": "1862974081529696339",
+        "created_at": "2024-11-30T22:25:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T23:25:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862986340322660581"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 205,
+              "start": 201,
+              "tag": "XRP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1529796991",
+              "start": 0,
+              "username": "RizXRP"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Click here to Participate!",
+              "display_url": "ripplefinance-promotion.com",
+              "end": 243,
+              "expanded_url": "https://ripplefinance-promotion.com/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 220,
+              "status": 200,
+              "title": "Official XRP Airdrop",
+              "unwound_url": "https://ripplefinance-promotion.com/",
+              "url": "https://t.co/T3aYnBkp8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862986340322660581",
+        "in_reply_to_user_id": "1529796991",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1290,
+          "quote_count": 0,
+          "reply_count": 77,
+          "retweet_count": 373
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862974760834986460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RizXRP We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the community's support during this challenging time, we are launching a giveaway of 100,000,000 $XRP!\n\nLearn more: https://t.co/T3aYnBkp8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "健全顺直蝈蝻（目前） 农批+撸狗 \n平等地尊重所有人类+无差别攻击其亲属看心情来回切换",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856571385285431296/0al-1Lm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 67
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-27T16:31:52.000Z",
+        "description": "Our mission is to build breakthrough crypto solutions for a world without economic",
+        "id": "85605300",
+        "name": "Ripple Event",
+        "pinned_tweet_id": "1862917885938565295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862657690566045697/VZCP7qrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22008,
+          "following_count": 596,
+          "like_count": 13507,
+          "listed_count": 880,
+          "media_count": 2630,
+          "tweet_count": 13036
+        },
+        "username": "Ripple__EventX",
+        "verified": true
+      },
+      {
+        "created_at": "2013-06-19T05:14:08.000Z",
+        "description": "✝ God's plan. \n\nhttps://t.co/icRyfVzEE1 https://t.co/1SViWy65Iy 👈🏼",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "RizShop.myspreadshop.com",
+                "end": 39,
+                "expanded_url": "https://RizShop.myspreadshop.com",
+                "start": 16,
+                "url": "https://t.co/icRyfVzEE1"
+              },
+              {
+                "display_url": "CoquiButton.com",
+                "end": 63,
+                "expanded_url": "http://CoquiButton.com",
+                "start": 40,
+                "url": "https://t.co/1SViWy65Iy"
+              }
+            ]
+          }
+        },
+        "id": "1529796991",
+        "location": "United States",
+        "name": "RIZ.. 🇺🇸 🇵🇷",
+        "pinned_tweet_id": "1834685577599631767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815605599838552064/NN-9lXWx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30864,
+          "following_count": 5322,
+          "like_count": 95877,
+          "listed_count": 133,
+          "media_count": 6446,
+          "tweet_count": 30649
+        },
+        "username": "RizXRP",
+        "verified": true
+      }
+    ]
+  }
+}

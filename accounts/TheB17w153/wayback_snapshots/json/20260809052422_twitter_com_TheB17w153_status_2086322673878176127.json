@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2086322673878176127",
+    "created_at": "2026-08-09T05:24:22.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T06:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086322673878176127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2020690859948163073",
+          "start": 3,
+          "username": "kageroumado"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086322673878176127",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086315441526329784",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kageroumado: Point your camera at a box or barcode to quickly log medications, log straight from your watch, look at detailed usage sta…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6220,
+        "height": 1562,
+        "media_key": "13_2086314813571969024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086314813571969024/img/O93X8WTEgsTKyAWd.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086314813571969024/vid/avc1/320x694/4JH79TD7TOAct8IT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086314813571969024/vid/avc1/480x1040/sxWEzEuxKY0jbwsK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086314813571969024/vid/avc1/720x1562/4gQw7_gfLiLoZo9E.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086314813571969024/pl/-J8wqorU2pGcWXA-.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 11658,
+        "height": 514,
+        "media_key": "13_2086314827924799488",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086314827924799488/img/1z-49my9Cdbv2OkH.jpg",
+        "public_metrics": {
+          "view_count": 4
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086314827924799488/vid/avc1/320x388/hMl_5qOhBv9nowjX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086314827924799488/vid/avc1/422x514/GOxhmyxaybGb7sWQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086314827924799488/pl/Gy0rKDv-YAEbISmy.m3u8"
+          }
+        ],
+        "width": 422
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2086314868949368832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQUUc1XwAARbGx.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2868,
+        "media_key": "3_2086314896967213056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPQUWFNWIAASmnf.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2086322673878176127",
+        "created_at": "2026-08-09T05:24:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T06:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086322673878176127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2020690859948163073",
+              "start": 3,
+              "username": "kageroumado"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086322673878176127",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086315441526329784",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kageroumado: Point your camera at a box or barcode to quickly log medications, log straight from your watch, look at detailed usage sta…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086314813571969024",
+            "13_2086314827924799488",
+            "3_2086314868949368832",
+            "3_2086314896967213056"
+          ]
+        },
+        "author_id": "2020690859948163073",
+        "conversation_id": "2086315441526329784",
+        "created_at": "2026-08-09T04:55:37.000Z",
+        "display_text_range": [
+          0,
+          210
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:55:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086315441526329784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXmxKXYj8D",
+              "end": 234,
+              "expanded_url": "https://x.com/kageroumado/status/2086315441526329784/video/1",
+              "media_key": "13_2086314813571969024",
+              "start": 211,
+              "url": "https://t.co/JXmxKXYj8D"
+            },
+            {
+              "display_url": "pic.x.com/JXmxKXYj8D",
+              "end": 234,
+              "expanded_url": "https://x.com/kageroumado/status/2086315441526329784/video/1",
+              "media_key": "13_2086314827924799488",
+              "start": 211,
+              "url": "https://t.co/JXmxKXYj8D"
+            },
+            {
+              "display_url": "pic.x.com/JXmxKXYj8D",
+              "end": 234,
+              "expanded_url": "https://x.com/kageroumado/status/2086315441526329784/video/1",
+              "media_key": "3_2086314868949368832",
+              "start": 211,
+              "url": "https://t.co/JXmxKXYj8D"
+            },
+            {
+              "display_url": "pic.x.com/JXmxKXYj8D",
+              "end": 234,
+              "expanded_url": "https://x.com/kageroumado/status/2086315441526329784/video/1",
+              "media_key": "3_2086314896967213056",
+              "start": 211,
+              "url": "https://t.co/JXmxKXYj8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086315441526329784",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086314813571969024"
+          },
+          {
+            "media_key": "13_2086314827924799488"
+          },
+          {
+            "media_key": "3_2086314868949368832"
+          },
+          {
+            "media_key": "3_2086314896967213056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Point your camera at a box or barcode to quickly log medications, log straight from your watch, look at detailed usage statistics, and see lots of substance info with sources – all in the latest version of Piru https://t.co/JXmxKXYj8D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2086322673878176127",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 528,
+          "like_count": 1763,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 587
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-09T02:47:44.000Z",
+        "description": "the Internet is still around. you can’t see it now, but it’s not like they could just turn it off",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kagerou.glass",
+                "end": 23,
+                "expanded_url": "https://kagerou.glass",
+                "start": 0,
+                "url": "https://t.co/kPkhvFwWQ7"
+              }
+            ]
+          }
+        },
+        "id": "2020690859948163073",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086315441526329784",
+        "name": "Kagerou",
+        "pinned_tweet_id": "2060351905985905133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020690859948163073/1779408195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036597812066967553/B6P50n57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 434,
+          "like_count": 6743,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/kPkhvFwWQ7",
+        "username": "kageroumado",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

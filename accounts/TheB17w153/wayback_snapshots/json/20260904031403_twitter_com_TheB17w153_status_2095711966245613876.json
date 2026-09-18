@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2095711966245613876",
+    "created_at": "2026-09-04T03:14:03.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T04:14:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095711966245613876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "816738313889607680",
+          "start": 3,
+          "username": "previsoesof"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095711966245613876",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1215
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095548126043988099",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @previsoesof: Haverá muito sexo na sua vida nos próximos dias."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2095711966245613876",
+        "created_at": "2026-09-04T03:14:03.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T04:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095711966245613876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "816738313889607680",
+              "start": 3,
+              "username": "previsoesof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095711966245613876",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1215
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095548126043988099",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @previsoesof: Haverá muito sexo na sua vida nos próximos dias."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "816738313889607680",
+        "conversation_id": "2095548126043988099",
+        "created_at": "2026-09-03T16:23:01.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T17:23:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095548126043988099"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095548126043988099",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 860,
+          "impression_count": 343164,
+          "like_count": 24349,
+          "quote_count": 1294,
+          "reply_count": 459,
+          "retweet_count": 1215
+        },
+        "reply_settings": "everyone",
+        "text": "Haverá muito sexo na sua vida nos próximos dias."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2095711966245613876",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 653,
+          "like_count": 1965,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 686
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-01-04T20:09:23.000Z",
+        "description": "",
+        "id": "816738313889607680",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095665027982205144",
+        "name": "previsoes",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/816738313889607680/1713540056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095342301245734912/DYBEDduv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85037,
+          "following_count": 830,
+          "like_count": 40892,
+          "listed_count": 25,
+          "media_count": 0,
+          "tweet_count": 49751
+        },
+        "url": "",
+        "username": "previsoesof",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

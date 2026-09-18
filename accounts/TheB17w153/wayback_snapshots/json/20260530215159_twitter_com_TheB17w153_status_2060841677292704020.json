@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2060841677292704020",
+    "created_at": "2026-05-30T21:51:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T22:51:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060841677292704020"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ori_nmk/status…",
+          "end": 157,
+          "expanded_url": "https://twitter.com/ori_nmk/status/2060350737935409538",
+          "start": 134,
+          "url": "https://t.co/dS6LzFlZzm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060841677292704020",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060350737935409538",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "毒品真的应该猛吸\n\n能缓解压力还能缩短寿命\n这种事再没有比这更幸福的了\n\n什么人生100年时代之类的，蠢到家了\n\n90岁、100岁了心脏还在跳\n那种日子简直就是活地狱\n\n还是把寿命缩短，早点离开这个世界\n幸福指数才会更高\n\n为了健康牺牲短期快感\n这种事简直是愚蠢之最 https://t.co/dS6LzFlZzm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060350730532450304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfWEr4acAAr-U4.jpg",
+        "width": 2034
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2060841677292704020",
+        "created_at": "2026-05-30T21:51:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T22:51:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060841677292704020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ori_nmk/status…",
+              "end": 157,
+              "expanded_url": "https://twitter.com/ori_nmk/status/2060350737935409538",
+              "start": 134,
+              "url": "https://t.co/dS6LzFlZzm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060841677292704020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060350737935409538",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "毒品真的应该猛吸\n\n能缓解压力还能缩短寿命\n这种事再没有比这更幸福的了\n\n什么人生100年时代之类的，蠢到家了\n\n90岁、100岁了心脏还在跳\n那种日子简直就是活地狱\n\n还是把寿命缩短，早点离开这个世界\n幸福指数才会更高\n\n为了健康牺牲短期快感\n这种事简直是愚蠢之最 https://t.co/dS6LzFlZzm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060350730532450304"
+          ]
+        },
+        "author_id": "1643480388663386112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2060350737935409538",
+        "created_at": "2026-05-29T13:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060350737935409538"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PYc2643rlh",
+              "end": 174,
+              "expanded_url": "https://x.com/ori_nmk/status/2060350737935409538/photo/1",
+              "media_key": "3_2060350730532450304",
+              "start": 151,
+              "url": "https://t.co/PYc2643rlh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060350737935409538",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 383,
+          "impression_count": 505882,
+          "like_count": 6206,
+          "quote_count": 369,
+          "reply_count": 180,
+          "retweet_count": 846
+        },
+        "reply_settings": "everyone",
+        "text": "タバコはガチで吸った方がいい\n\nストレス発散できてかつ寿命縮めれる\nとかこれ以上幸せなことはない\n\n人生100年時代とかアホかて\n\n90歳、100歳でまだ心臓動いてる\nとか生き地獄でしかない\n\n寿命縮めて、早々にこの世から\n去った方が幸福度は高くなる\n\n短期的快楽を犠牲に\nして健康をとるなど愚の骨頂 https://t.co/PYc2643rlh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 264,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 189
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:07:24.000Z",
+        "description": "サイコパス思想",
+        "id": "1643480388663386112",
+        "name": "ケッキング山田",
+        "pinned_tweet_id": "2060632387399397753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992773066766880769/5npSnLqs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3243,
+          "following_count": 442,
+          "like_count": 26305,
+          "listed_count": 29,
+          "media_count": 1435,
+          "tweet_count": 15325
+        },
+        "username": "ori_nmk",
+        "verified": true
+      }
+    ]
+  }
+}

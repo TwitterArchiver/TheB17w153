@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2056785885002412165",
+    "created_at": "2026-05-19T17:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056786612495995371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837114188046684161",
+          "start": 0,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056786612495995371",
+    "in_reply_to_user_id": "1837114188046684161",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056785885002412165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@winterfruit_1 wdym"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2056785885002412165",
+        "created_at": "2026-05-19T17:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056786612495995371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056786612495995371",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056785885002412165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 wdym"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837114188046684161",
+        "conversation_id": "2056785885002412165",
+        "created_at": "2026-05-19T17:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056785885002412165"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056785885002412165",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哦哦哦哦哦哦520哦哦哦哦哦哦哦哦哦哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "@B17w153 原账号被shadowban了｜名字头像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 76,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 62
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "此人是WinitFTZ\n\n璟江别 @cy79p\n香香梨 @K1ku21_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 17,
+                "username": "cy79p"
+              },
+              {
+                "end": 36,
+                "start": 28,
+                "username": "K1ku21_"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2604,
+          "following_count": 1488,
+          "like_count": 41706,
+          "listed_count": 6,
+          "media_count": 1816,
+          "tweet_count": 12330
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

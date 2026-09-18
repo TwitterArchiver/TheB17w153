@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2067486088856498591",
+    "created_at": "2026-06-18T21:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T22:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067718067656991025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2058988352054218752",
+          "start": 0,
+          "username": "Ta1z19"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067718067656991025",
+    "in_reply_to_user_id": "2058988352054218752",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067486088856498591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ta1z19 👁️👁️👁️👁️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1118,
+        "media_key": "3_2067486072079261696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEvoOhaIAAL2Yf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2067486088856498591",
+        "created_at": "2026-06-18T21:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T22:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067718067656991025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067718067656991025",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067486088856498591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 👁️👁️👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067486072079261696"
+          ]
+        },
+        "author_id": "2058988352054218752",
+        "conversation_id": "2067486088856498591",
+        "created_at": "2026-06-18T05:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067486088856498591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rMuAacd3bK",
+              "end": 43,
+              "expanded_url": "https://x.com/Ta1z19/status/2067486088856498591/photo/1",
+              "media_key": "3_2067486072079261696",
+              "start": 20,
+              "url": "https://t.co/rMuAacd3bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067486088856498591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 257,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫猫 比特你们俩理理我 我想你们俩了🥹 https://t.co/rMuAacd3bK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "只爱 @Lomyral896444\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 37,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 436,
+          "like_count": 846,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 370
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+KB7cJLsfu7o3M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+KB7cJLsfu7o3MzZh",
+                "start": 0,
+                "url": "https://t.co/huBGxtAPI5"
+              }
+            ]
+          }
+        },
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 49,
+          "like_count": 657,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/huBGxtAPI5",
+        "username": "Ta1z19",
+        "verified": false
+      }
+    ]
+  }
+}

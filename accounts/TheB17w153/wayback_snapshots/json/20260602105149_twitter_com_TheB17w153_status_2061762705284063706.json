@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2061762705284063706",
+    "created_at": "2026-06-02T10:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T11:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061762705284063706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2048782497979510784",
+          "start": 3,
+          "username": "8964qwerty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061762705284063706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061736645137956955",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @8964qwerty: 我来了，关于这件事的补充我放评论区）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2061762705284063706",
+        "created_at": "2026-06-02T10:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061762705284063706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2048782497979510784",
+              "start": 3,
+              "username": "8964qwerty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061762705284063706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061736645137956955",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @8964qwerty: 我来了，关于这件事的补充我放评论区）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048782497979510784",
+        "conversation_id": "2061736645137956955",
+        "created_at": "2026-06-02T09:08:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:08:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061736645137956955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Overdose_DBD/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/Overdose_DBD/status/2060716442388230627",
+              "start": 19,
+              "url": "https://t.co/pDcgIJQ9Eb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061736645137956955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 207,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060716442388230627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我来了，关于这件事的补充我放评论区） https://t.co/pDcgIJQ9Eb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 93,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 302,
+          "like_count": 267,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T15:13:54.000Z",
+        "description": "大号@D3XTR0M3TH_0w0\n锁推不方便转帖所以开了这个号",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "D3XTR0M3TH_0w0"
+              }
+            ]
+          }
+        },
+        "id": "2048782497979510784",
+        "name": "_",
+        "pinned_tweet_id": "2061736645137956955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048783164303425536/SqnH7tTp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 15
+        },
+        "username": "8964qwerty",
+        "verified": false
+      }
+    ]
+  }
+}

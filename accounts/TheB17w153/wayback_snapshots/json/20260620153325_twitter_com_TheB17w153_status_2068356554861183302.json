@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068356549849001985"
+      ]
+    },
+    "author_id": "1571848301594705927",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2068198163740324020",
+    "created_at": "2026-06-20T15:33:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:33:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068356554861183302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001675650994999296",
+          "start": 0,
+          "username": "Pluralitysubsys"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/faSK22gJAL",
+          "end": 40,
+          "expanded_url": "https://x.com/TheB17w153/status/2068356554861183302/photo/1",
+          "media_key": "3_2068356549849001985",
+          "start": 17,
+          "url": "https://t.co/faSK22gJAL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068356554861183302",
+    "in_reply_to_user_id": "2001675650994999296",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068198163740324020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pluralitysubsys https://t.co/faSK22gJAL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1385,
+        "media_key": "3_2068356549849001985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRHUs6aMAEsPpy.jpg",
+        "width": 1290
+      },
+      {
+        "height": 920,
+        "media_key": "3_2068198155775266816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLO3Q9AaUAAIWno.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068356549849001985"
+          ]
+        },
+        "author_id": "1571848301594705927",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2068198163740324020",
+        "created_at": "2026-06-20T15:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068356554861183302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001675650994999296",
+              "start": 0,
+              "username": "Pluralitysubsys"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/faSK22gJAL",
+              "end": 40,
+              "expanded_url": "https://x.com/TheB17w153/status/2068356554861183302/photo/1",
+              "media_key": "3_2068356549849001985",
+              "start": 17,
+              "url": "https://t.co/faSK22gJAL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068356554861183302",
+        "in_reply_to_user_id": "2001675650994999296",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068198163740324020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pluralitysubsys https://t.co/faSK22gJAL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068198155775266816"
+          ]
+        },
+        "author_id": "2001675650994999296",
+        "conversation_id": "2068198163740324020",
+        "created_at": "2026-06-20T05:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T06:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068198163740324020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sixtHqhNyD",
+              "end": 39,
+              "expanded_url": "https://x.com/Pluralitysubsys/status/2068198163740324020/photo/1",
+              "media_key": "3_2068198155775266816",
+              "start": 16,
+              "url": "https://t.co/sixtHqhNyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068198163740324020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 215,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你确定K粉是致幻/抑制剂🤣🤣🤣 https://t.co/sixtHqhNyD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "只爱 @Lomyral896444\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 37,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 451,
+          "like_count": 994,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/plurality…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/pluralitysubsystem2025personal",
+                "start": 0,
+                "url": "https://t.co/Bv5TPNjkK9"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2059175171286819294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 123,
+          "like_count": 1661,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 2665
+        },
+        "url": "https://t.co/Bv5TPNjkK9",
+        "username": "Pluralitysubsys",
+        "verified": false
+      }
+    ]
+  }
+}

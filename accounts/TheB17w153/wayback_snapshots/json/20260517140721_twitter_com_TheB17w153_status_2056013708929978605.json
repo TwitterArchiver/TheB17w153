@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2056011743260983788",
+    "created_at": "2026-05-17T14:07:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:07:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056013708929978605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2054912328978817024",
+          "start": 0,
+          "username": "jiuyouforwhite2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056013708929978605",
+    "in_reply_to_user_id": "2054912328978817024",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056011743260983788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite2 accurate"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 925,
+        "media_key": "3_2056011726475390977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIhrxaKacAEiCM0.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2056011743260983788",
+        "created_at": "2026-05-17T14:07:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056013708929978605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2054912328978817024",
+              "start": 0,
+              "username": "jiuyouforwhite2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056013708929978605",
+        "in_reply_to_user_id": "2054912328978817024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056011743260983788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite2 accurate"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056011726475390977"
+          ]
+        },
+        "author_id": "2054912328978817024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056011743260983788",
+        "created_at": "2026-05-17T13:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056011743260983788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4Y9TpwJjH",
+              "end": 30,
+              "expanded_url": "https://x.com/jiuyouforwhite2/status/2056011743260983788/photo/1",
+              "media_key": "3_2056011726475390977",
+              "start": 7,
+              "url": "https://t.co/W4Y9TpwJjH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056011743260983788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "黄鼠猫看见鸡 https://t.co/W4Y9TpwJjH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "@B17w153 原账号被shadowban了｜秽土转生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054963249859461120/j5QDFum8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 73,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 34
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-14T13:11:55.000Z",
+        "description": "And in yours you say,Your teeth are falling out.\n主账号:@jiuyouforwhite/偏爱:@xingstaro/师长:@futi999139732/好友:@Lomyral114514、@h1zh816060",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "jiuyouforwhite"
+              },
+              {
+                "end": 82,
+                "start": 72,
+                "username": "xingstaro"
+              },
+              {
+                "end": 100,
+                "start": 86,
+                "username": "futi999139732"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "Lomyral114514"
+              },
+              {
+                "end": 130,
+                "start": 119,
+                "username": "h1zh816060"
+              }
+            ]
+          }
+        },
+        "id": "2054912328978817024",
+        "location": "Hopelessly free",
+        "name": "反胃的YozoOba",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054913557297610752/3NKcf-Cs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 45,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 40
+        },
+        "username": "jiuyouforwhite2",
+        "verified": false
+      }
+    ]
+  }
+}

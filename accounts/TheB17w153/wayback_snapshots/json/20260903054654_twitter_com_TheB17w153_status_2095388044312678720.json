@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2095388044312678720",
+    "created_at": "2026-09-03T05:46:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T06:46:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095388044312678720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "936782105605836802",
+          "start": 3,
+          "username": "Josikinz"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Harm reduction database for psychoactive substances.",
+          "display_url": "dose.wiki",
+          "end": 37,
+          "expanded_url": "https://dose.wiki",
+          "images": [
+            {
+              "height": 1200,
+              "url": "https://pbs.twimg.com/news_img/2094283485976657920/EnBEoeBK?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2094283485976657920/EnBEoeBK?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "dose.wiki",
+          "unwound_url": "https://dose.wiki",
+          "url": "https://t.co/2DfnUfCPu7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095388044312678720",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095311355775725761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Josikinz: https://t.co/2DfnUfCPu7 is now officially available as a beta release!\nIt's a modern and open source encyclopedic database of…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1603,
+        "media_key": "3_2095311352000806912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRQKkr3aAAAxJhX.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2095388044312678720",
+        "created_at": "2026-09-03T05:46:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T06:46:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095388044312678720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "936782105605836802",
+              "start": 3,
+              "username": "Josikinz"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Harm reduction database for psychoactive substances.",
+              "display_url": "dose.wiki",
+              "end": 37,
+              "expanded_url": "https://dose.wiki",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2094283485976657920/EnBEoeBK?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2094283485976657920/EnBEoeBK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "dose.wiki",
+              "unwound_url": "https://dose.wiki",
+              "url": "https://t.co/2DfnUfCPu7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095388044312678720",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095311355775725761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Josikinz: https://t.co/2DfnUfCPu7 is now officially available as a beta release!\nIt's a modern and open source encyclopedic database of…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095311352000806912"
+          ]
+        },
+        "author_id": "936782105605836802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2095311355775725761",
+        "created_at": "2026-09-03T00:42:10.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T01:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095311355775725761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Harm reduction database for psychoactive substances.",
+              "display_url": "dose.wiki",
+              "end": 23,
+              "expanded_url": "https://dose.wiki",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2094283485976657920/EnBEoeBK?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2094283485976657920/EnBEoeBK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "dose.wiki",
+              "unwound_url": "https://dose.wiki",
+              "url": "https://t.co/2DfnUfCPu7"
+            },
+            {
+              "display_url": "pic.x.com/Mo3r7hbkf0",
+              "end": 188,
+              "expanded_url": "https://x.com/Josikinz/status/2095311355775725761/photo/1",
+              "media_key": "3_2095311352000806912",
+              "start": 165,
+              "url": "https://t.co/Mo3r7hbkf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095311355775725761",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095311352000806912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 308,
+          "impression_count": 10885,
+          "like_count": 474,
+          "quote_count": 4,
+          "reply_count": 22,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2DfnUfCPu7 is now officially available as a beta release!\nIt's a modern and open source encyclopedic database of psychopharmacology. Go check it out :) https://t.co/Mo3r7hbkf0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2095388044312678720",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 649,
+          "like_count": 1941,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-12-02T02:20:33.000Z",
+        "description": "Researcher @mindstatedesign, Subjective Effect Documentation expert, founder of various projects, glitchybrained-intersex-technoshaman, etc. views=mine",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "mindstatedesign"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "josiekins.xyz",
+                "end": 23,
+                "expanded_url": "http://josiekins.xyz",
+                "start": 0,
+                "url": "https://t.co/r0b1px3EV3"
+              }
+            ]
+          }
+        },
+        "id": "936782105605836802",
+        "is_identity_verified": false,
+        "location": "hyperspace",
+        "most_recent_tweet_id": "2095380011637436723",
+        "name": "Josie Kins",
+        "pinned_tweet_id": "1892669514984137087",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/936782105605836802/1750726457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603209877966315521/M0J9toDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16965,
+          "following_count": 632,
+          "like_count": 584,
+          "listed_count": 141,
+          "media_count": 312,
+          "tweet_count": 1653
+        },
+        "url": "https://t.co/r0b1px3EV3",
+        "username": "Josikinz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

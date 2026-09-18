@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2070905182817587664",
+    "created_at": "2026-06-28T10:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071175134690558061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2058988352054218752",
+          "start": 0,
+          "username": "Ta1z19"
+        },
+        {
+          "end": 22,
+          "id": "2065149033379971072",
+          "start": 8,
+          "username": "Lomyral896444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071175134690558061",
+    "in_reply_to_user_id": "2058988352054218752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070920688626802969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ta1z19 @Lomyral896444 厨子不偷 五谷不收😈😈😈 做出来我自己先尝尝怎么个事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2070905182817587664",
+        "created_at": "2026-06-28T10:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071175134690558061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            },
+            {
+              "end": 22,
+              "id": "2065149033379971072",
+              "start": 8,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071175134690558061",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070920688626802969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 @Lomyral896444 厨子不偷 五谷不收😈😈😈 做出来我自己先尝尝怎么个事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2070905182817587664",
+        "created_at": "2026-06-27T17:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T18:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070920688626802969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070920688626802969",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070919869311439058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 一般厨子不会吃自己做给客人的菜你知道为什么嘛猫猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 470,
+          "like_count": 1330,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo@正常合理用药 叫我太子。药理学爱好者/化学爱好者/迷幻掌控者/清醒梦主宰/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070204928799432704/isCUmZ2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 59,
+          "like_count": 1340,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 638
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推|\n这里是四号机，互关寻回中|最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "username": "Zukawbit"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 431,
+          "like_count": 3383,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 766
+        },
+        "url": "",
+        "username": "Lomyral896444",
+        "verified": true
+      }
+    ]
+  }
+}

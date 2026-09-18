@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2096498177008660711",
+    "created_at": "2026-09-06T07:18:11.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:18:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096498177008660711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuki1161_ic26/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/yuki1161_ic26/status/2096303868111978885",
+          "start": 8,
+          "url": "https://t.co/KVtfzEckfw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096498177008660711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096303868111978885",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇还有回旋镖😭 https://t.co/KVtfzEckfw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2096498177008660711",
+        "created_at": "2026-09-06T07:18:11.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096498177008660711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki1161_ic26/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/yuki1161_ic26/status/2096303868111978885",
+              "start": 8,
+              "url": "https://t.co/KVtfzEckfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096498177008660711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096303868111978885",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇还有回旋镖😭 https://t.co/KVtfzEckfw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092788164234821632",
+        "conversation_id": "2096174162523947391",
+        "created_at": "2026-09-05T18:26:04.000Z",
+        "display_text_range": [
+          26,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T19:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096303868111978885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            },
+            {
+              "end": 25,
+              "id": "1571848301594705927",
+              "start": 14,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096303868111978885",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096174265305321862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink @TheB17w153 架锅吸兴奋剂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2096498177008660711",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 651,
+          "like_count": 1976,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 696
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于给习主席买包子吃/岐哥第六世\n\n早已逝去之人 早已宽恕之罪——特雷西娅\n属于我的姐姐@Cecey33 ⁺共号\n直fo喜歡的人/喜欢🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "Cecey33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki1161_ic26",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki1161_ic26",
+                "start": 0,
+                "url": "https://t.co/aC39wCmdXR"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2096486745302831604",
+        "name": "岐#心宿二",
+        "pinned_tweet_id": "2095459432368910758",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096464883303010304/XZtwCCUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 268,
+          "like_count": 662,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/aC39wCmdXR",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® Manager",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlg7IH"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2096488596438216800",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 98,
+          "like_count": 3527,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 1922
+        },
+        "url": "https://t.co/7eJAqlg7IH",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

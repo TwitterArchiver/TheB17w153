@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849183768445353984",
+    "conversation_id": "1862980634488058301",
+    "created_at": "2024-11-30T22:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T23:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862980634488058301"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 58,
+          "normalized_text": "SEC",
+          "probability": 0.876,
+          "start": 56,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "85605300",
+          "start": 3,
+          "username": "Ripple__EventX"
+        },
+        {
+          "end": 34,
+          "id": "1495130325965586433",
+          "start": 20,
+          "username": "Candidpatriot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862980634488058301",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862979905362776275",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ripple__EventX: @Candidpatriot We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the comm…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "1862980634488058301",
+        "created_at": "2024-11-30T22:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T23:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862980634488058301"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "SEC",
+              "probability": 0.876,
+              "start": 56,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "85605300",
+              "start": 3,
+              "username": "Ripple__EventX"
+            },
+            {
+              "end": 34,
+              "id": "1495130325965586433",
+              "start": 20,
+              "username": "Candidpatriot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862980634488058301",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862979905362776275",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ripple__EventX: @Candidpatriot We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the comm…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "85605300",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          }
+        ],
+        "conversation_id": "1862949648064827545",
+        "created_at": "2024-11-30T21:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T22:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862979905362776275"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "SEC",
+              "probability": 0.8254,
+              "start": 36,
+              "type": "Organization"
+            },
+            {
+              "end": 211,
+              "normalized_text": "XRP",
+              "probability": 0.6501,
+              "start": 209,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 212,
+              "start": 208,
+              "tag": "XRP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1495130325965586433",
+              "start": 0,
+              "username": "Candidpatriot"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Click here to Participate!",
+              "display_url": "ripplefinance-promotion.com",
+              "end": 250,
+              "expanded_url": "https://ripplefinance-promotion.com/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 227,
+              "status": 200,
+              "title": "Official XRP Airdrop",
+              "unwound_url": "https://ripplefinance-promotion.com/",
+              "url": "https://t.co/T3aYnBkp8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862979905362776275",
+        "in_reply_to_user_id": "1495130325965586433",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 899,
+          "quote_count": 0,
+          "reply_count": 114,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862950344617013542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Candidpatriot We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the community's support during this challenging time, we are launching a giveaway of 100,000,000 $XRP!\n\nLearn more: https://t.co/T3aYnBkp8W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "健全顺直蝈蝻（目前） 农批+撸狗 \n平等地尊重所有人类+无差别攻击其亲属看心情来回切换",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856571385285431296/0al-1Lm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 57
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-27T16:31:52.000Z",
+        "description": "Our mission is to build breakthrough crypto solutions for a world without economic",
+        "id": "85605300",
+        "name": "Ripple Event",
+        "pinned_tweet_id": "1862917885938565295",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862657690566045697/VZCP7qrU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22006,
+          "following_count": 596,
+          "like_count": 13507,
+          "listed_count": 881,
+          "media_count": 2630,
+          "tweet_count": 12985
+        },
+        "username": "Ripple__EventX",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-19T20:17:10.000Z",
+        "description": "God ✝️ Family, Country 🇺🇸, Retired USAF MSgt and Retired Engineer, Personal Trainer, MAGA, MAHA, 2A, Yes that is @AishahHasnie with me 😎",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 113,
+                "username": "AishahHasnie"
+              }
+            ]
+          }
+        },
+        "id": "1495130325965586433",
+        "location": "Georgia",
+        "name": "Top Grandpa",
+        "pinned_tweet_id": "1860727713901797858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856820220767227904/6A6F1VAA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7587,
+          "following_count": 7225,
+          "like_count": 10749,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 8204
+        },
+        "username": "Candidpatriot",
+        "verified": true
+      }
+    ]
+  }
+}

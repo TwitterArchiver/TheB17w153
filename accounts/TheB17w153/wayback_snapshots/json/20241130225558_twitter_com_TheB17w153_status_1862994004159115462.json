@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849183768445353984",
+    "conversation_id": "1862994004159115462",
+    "created_at": "2024-11-30T22:55:58.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T23:55:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862994004159115462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "15231144",
+          "start": 3,
+          "username": "Ripple__Events"
+        },
+        {
+          "end": 27,
+          "id": "1366216423576600577",
+          "start": 20,
+          "username": "tc_xrp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862994004159115462",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 361
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862993713179365384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ripple__Events: @tc_xrp We have defeated the SEC, and now it's time for a Massive Pump!\n\nAs a token of appreciation for the community's…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "1862994004159115462",
+        "created_at": "2024-11-30T22:55:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T23:55:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862994004159115462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "15231144",
+              "start": 3,
+              "username": "Ripple__Events"
+            },
+            {
+              "end": 27,
+              "id": "1366216423576600577",
+              "start": 20,
+              "username": "tc_xrp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862994004159115462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 361
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862993713179365384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ripple__Events: @tc_xrp We have defeated the SEC, and now it's time for a Massive Pump!\n\nAs a token of appreciation for the community's…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15231144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          }
+        ],
+        "conversation_id": "1862975976277172675",
+        "created_at": "2024-11-30T22:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T23:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862993713179365384"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "SEC",
+              "probability": 0.8362,
+              "start": 29,
+              "type": "Organization"
+            },
+            {
+              "end": 204,
+              "normalized_text": "XRP",
+              "probability": 0.6042,
+              "start": 202,
+              "type": "Other"
+            }
+          ],
+          "cashtags": [
+            {
+              "end": 205,
+              "start": 201,
+              "tag": "XRP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1366216423576600577",
+              "start": 0,
+              "username": "tc_xrp"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Click here to Participate!",
+              "display_url": "ripplefinance-promotion.com",
+              "end": 243,
+              "expanded_url": "https://ripplefinance-promotion.com/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 220,
+              "status": 200,
+              "title": "Official XRP Airdrop",
+              "unwound_url": "https://ripplefinance-promotion.com/",
+              "url": "https://t.co/lFU7GBjmIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862993713179365384",
+        "in_reply_to_user_id": "1366216423576600577",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1356,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 361
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862976071655682244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tc_xrp We have defeated the SEC, and now it's time for a Massive Pump!\n\nAs a token of appreciation for the community's support during this challenging time, We are launching a GiveAway of 100.000.000 $XRP.\n\nLearn more: https://t.co/lFU7GBjmIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "健全顺直蝈蝻（目前） 农批+撸狗 \n平等地尊重所有人类+无差别攻击其亲属看心情来回切换",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856571385285431296/0al-1Lm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 73
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2008-06-25T13:52:49.000Z",
+        "description": "Our mission is to build breakthrough crypto solutions for a world without economic",
+        "id": "15231144",
+        "name": "Ripple Event",
+        "pinned_tweet_id": "1862788496341033099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862787453322416128/pllwwXSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17937,
+          "following_count": 1798,
+          "like_count": 32017,
+          "listed_count": 160,
+          "media_count": 3871,
+          "tweet_count": 26941
+        },
+        "username": "Ripple__Events",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-01T02:39:21.000Z",
+        "description": "crypto, finance, golf",
+        "id": "1366216423576600577",
+        "name": "tc.xrp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504256286283767819/-hRe1VWb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 213,
+          "like_count": 43809,
+          "listed_count": 8,
+          "media_count": 394,
+          "tweet_count": 11128
+        },
+        "username": "tc_xrp",
+        "verified": true
+      }
+    ]
+  }
+}

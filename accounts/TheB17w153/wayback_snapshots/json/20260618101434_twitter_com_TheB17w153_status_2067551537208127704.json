@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2067550006739865641",
+    "created_at": "2026-06-18T10:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T11:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067551537208127704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2055822314969665536",
+          "start": 0,
+          "username": "GrievousPotato1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067551537208127704",
+    "in_reply_to_user_id": "2055822314969665536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067550006739865641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GrievousPotato1 吃得苦中苦 方为猫上人🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2067550006739865641",
+        "created_at": "2026-06-18T10:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067551537208127704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2055822314969665536",
+              "start": 0,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067551537208127704",
+        "in_reply_to_user_id": "2055822314969665536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067550006739865641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GrievousPotato1 吃得苦中苦 方为猫上人🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055822314969665536",
+        "conversation_id": "2067550006739865641",
+        "created_at": "2026-06-18T10:08:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T11:08:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067550006739865641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TheB17w153/sta…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/TheB17w153/status/2061074828648677583",
+              "start": 138,
+              "url": "https://t.co/37igHNLeDN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067550006739865641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061074828648677583",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这样说的话，我发现一个有趣的现象\n如果你在学校坐着学习的时候，看起来很开心，老师会怀疑你是不是私底下偷偷玩手机听歌，会来注意你\n但如果你偷偷玩手机的时候表现出苦大仇深的样子，老师会以为你在学习，就不会经常注意你，这样反而能够更好的玩手机\n\n所以大人们对于吃苦真的是有执念的😁 https://t.co/37igHNLeDN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "只爱 @Lomyral896444\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 37,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 434,
+          "like_count": 783,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 355
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/备用@aeglepotato /🦋@aeglepotato /https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 58,
+                "start": 46,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 83,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 60,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "name": "🌈ALLice☃️赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 177,
+          "like_count": 4850,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false
+      }
+    ]
+  }
+}

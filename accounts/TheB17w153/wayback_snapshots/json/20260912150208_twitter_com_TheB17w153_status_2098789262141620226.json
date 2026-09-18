@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2098789262141620226",
+    "created_at": "2026-09-12T15:02:08.000Z",
+    "display_text_range": [
+      0,
+      122
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:02:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098789262141620226"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1224062273397850112",
+          "start": 3,
+          "username": "Ayudadme_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098789262141620226",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098093933137887657",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayudadme_: opinar sobre la droga cuando nunca la has probao.. es como hablar de sexo siendo virgen.. deja de larpear.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2098789262141620226",
+        "created_at": "2026-09-12T15:02:08.000Z",
+        "display_text_range": [
+          0,
+          122
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:02:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098789262141620226"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1224062273397850112",
+              "start": 3,
+              "username": "Ayudadme_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098789262141620226",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098093933137887657",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayudadme_: opinar sobre la droga cuando nunca la has probao.. es como hablar de sexo siendo virgen.. deja de larpear.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1224062273397850112",
+        "conversation_id": "2098093933137887657",
+        "created_at": "2026-09-10T16:59:09.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T17:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098093933137887657"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098093933137887657",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 25862,
+          "like_count": 1442,
+          "quote_count": 16,
+          "reply_count": 23,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "opinar sobre la droga cuando nunca la has probao.. es como hablar de sexo siendo virgen.. deja de larpear.."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2098789262141620226",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 566,
+          "following_count": 650,
+          "like_count": 1996,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 715
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-02T20:09:32.000Z",
+        "description": "Izan con za de zaza 🍃 21 añitos la criatura 🥀 BCN 🚭\nNací x mi madre moriré por el tabaco\nEl Swag es un estilo de vida fuck huella digital\n@IzanCrybaby",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 138,
+                "username": "IzanCrybaby"
+              }
+            ]
+          }
+        },
+        "id": "1224062273397850112",
+        "is_identity_verified": false,
+        "location": "idgafkistan 💯",
+        "most_recent_tweet_id": "2098556059334181021",
+        "name": "Fumador Licenciado",
+        "pinned_tweet_id": "1920125159886741867",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1224062273397850112/1715355328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084917559367798784/xHmdw2-z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6602,
+          "following_count": 857,
+          "like_count": 82981,
+          "listed_count": 1,
+          "media_count": 3753,
+          "tweet_count": 34511
+        },
+        "url": "",
+        "username": "Ayudadme_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

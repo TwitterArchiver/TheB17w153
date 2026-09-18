@@ -1,0 +1,522 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2060438901542830193",
+    "created_at": "2026-05-29T19:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T20:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060438901542830193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2020690859948163073",
+          "start": 3,
+          "username": "kageroumado"
+        },
+        {
+          "end": 28,
+          "id": "1571848301594705927",
+          "start": 17,
+          "username": "TheB17w153"
+        },
+        {
+          "end": 39,
+          "id": "1659962043460354050",
+          "start": 29,
+          "username": "SalviaSWC"
+        },
+        {
+          "end": 54,
+          "id": "1861298245642907649",
+          "start": 40,
+          "username": "pharmacykitty"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Check out the Piru community on Discord - hang out with 13 other members and enjoy free voice and text chat.",
+          "display_url": "discord.gg/A7cxFYQ8y",
+          "end": 96,
+          "expanded_url": "https://discord.gg/A7cxFYQ8y",
+          "start": 73,
+          "status": 200,
+          "title": "Join the Piru Discord Server!",
+          "unwound_url": "https://discord.com/invite/A7cxFYQ8y",
+          "url": "https://t.co/T1WY0mjPaV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060438901542830193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060438621245657442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kageroumado: @TheB17w153 @SalviaSWC @pharmacykitty 加入我们的 Discord 社区！\nhttps://t.co/T1WY0mjPaV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2060438901542830193",
+        "created_at": "2026-05-29T19:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060438901542830193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2020690859948163073",
+              "start": 3,
+              "username": "kageroumado"
+            },
+            {
+              "end": 28,
+              "id": "1571848301594705927",
+              "start": 17,
+              "username": "TheB17w153"
+            },
+            {
+              "end": 39,
+              "id": "1659962043460354050",
+              "start": 29,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 54,
+              "id": "1861298245642907649",
+              "start": 40,
+              "username": "pharmacykitty"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Check out the Piru community on Discord - hang out with 13 other members and enjoy free voice and text chat.",
+              "display_url": "discord.gg/A7cxFYQ8y",
+              "end": 96,
+              "expanded_url": "https://discord.gg/A7cxFYQ8y",
+              "start": 73,
+              "status": 200,
+              "title": "Join the Piru Discord Server!",
+              "unwound_url": "https://discord.com/invite/A7cxFYQ8y",
+              "url": "https://t.co/T1WY0mjPaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060438901542830193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060438621245657442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kageroumado: @TheB17w153 @SalviaSWC @pharmacykitty 加入我们的 Discord 社区！\nhttps://t.co/T1WY0mjPaV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020690859948163073",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2058693066517852269",
+        "created_at": "2026-05-29T19:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060438621245657442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            },
+            {
+              "end": 22,
+              "id": "1659962043460354050",
+              "start": 12,
+              "username": "SalviaSWC"
+            },
+            {
+              "end": 37,
+              "id": "1861298245642907649",
+              "start": 23,
+              "username": "pharmacykitty"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Check out the Piru community on Discord - hang out with 13 other members and enjoy free voice and text chat.",
+              "display_url": "discord.gg/A7cxFYQ8y",
+              "end": 79,
+              "expanded_url": "https://discord.gg/A7cxFYQ8y",
+              "start": 56,
+              "status": 200,
+              "title": "Join the Piru Discord Server!",
+              "unwound_url": "https://discord.com/invite/A7cxFYQ8y",
+              "url": "https://t.co/T1WY0mjPaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060438621245657442",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058693066517852269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 @SalviaSWC @pharmacykitty 加入我们的 Discord 社区！\nhttps://t.co/T1WY0mjPaV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 256,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 185
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T02:47:44.000Z",
+        "description": "neuropsychopharmacology, software, and random rants",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kagerou.glass",
+                "end": 23,
+                "expanded_url": "https://kagerou.glass",
+                "start": 0,
+                "url": "https://t.co/kPkhvFwWQ7"
+              }
+            ]
+          }
+        },
+        "id": "2020690859948163073",
+        "name": "Kagerou",
+        "pinned_tweet_id": "2060351905985905133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036597812066967553/B6P50n57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 397,
+          "like_count": 5494,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 479
+        },
+        "url": "https://t.co/kPkhvFwWQ7",
+        "username": "kageroumado",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4704,
+          "following_count": 1012,
+          "like_count": 24135,
+          "listed_count": 11,
+          "media_count": 532,
+          "tweet_count": 7782
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T06:38:06.000Z",
+        "description": "https://t.co/rIV0bgjgNo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/pharmacyk…",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/user/pharmacykitty",
+                "start": 0,
+                "url": "https://t.co/rIV0bgjgNo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/pharmacykitty",
+                "end": 23,
+                "expanded_url": "https://throne.com/pharmacykitty",
+                "start": 0,
+                "url": "https://t.co/zgMKHEdR5y"
+              }
+            ]
+          }
+        },
+        "id": "1861298245642907649",
+        "name": "ly",
+        "pinned_tweet_id": "1988005403880210650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060044609561001986/SG8rR2y0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 417,
+          "like_count": 34774,
+          "listed_count": 3,
+          "media_count": 1368,
+          "tweet_count": 8127
+        },
+        "url": "https://t.co/zgMKHEdR5y",
+        "username": "pharmacykitty",
+        "verified": false
+      }
+    ]
+  }
+}

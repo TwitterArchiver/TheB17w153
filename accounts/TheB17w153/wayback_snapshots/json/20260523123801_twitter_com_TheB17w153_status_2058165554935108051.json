@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2058024202003984724",
+    "created_at": "2026-05-23T12:38:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T13:38:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058165554935108051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2020690859948163073",
+          "start": 0,
+          "username": "kageroumado"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058165554935108051",
+    "in_reply_to_user_id": "2020690859948163073",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058165157256163597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kageroumado The dissociation was neat but i dont feel like it"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2058024202003984724",
+        "created_at": "2026-05-23T12:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058165554935108051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2020690859948163073",
+              "start": 0,
+              "username": "kageroumado"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058165554935108051",
+        "in_reply_to_user_id": "2020690859948163073",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058165157256163597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kageroumado The dissociation was neat but i dont feel like it"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020690859948163073",
+        "conversation_id": "2058024202003984724",
+        "created_at": "2026-05-23T12:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058165157256163597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058165157256163597",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058024202003984724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 Do you feel like everything is super soft to touch?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "03 男 江苏\n@B17w153 原账号被shadowban了\n名字头 像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 164,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 100
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-09T02:47:44.000Z",
+        "description": "neuropsychopharmacology, software, and random rants",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kagerou.glass",
+                "end": 23,
+                "expanded_url": "https://kagerou.glass",
+                "start": 0,
+                "url": "https://t.co/kPkhvFwWQ7"
+              }
+            ]
+          }
+        },
+        "id": "2020690859948163073",
+        "name": "Kagerou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036597812066967553/B6P50n57_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 357,
+          "like_count": 4860,
+          "listed_count": 3,
+          "media_count": 39,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/kPkhvFwWQ7",
+        "username": "kageroumado",
+        "verified": true
+      }
+    ]
+  }
+}

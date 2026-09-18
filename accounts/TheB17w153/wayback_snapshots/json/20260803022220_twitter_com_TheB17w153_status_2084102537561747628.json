@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2084102537561747628",
+    "created_at": "2026-08-03T02:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T03:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084102537561747628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1186572635058163714",
+          "start": 3,
+          "username": "oliverzimkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084102537561747628",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6497
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083692446630727902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oliverzimkk: masturbação é necrofilia se você está morto por dentro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2084102537561747628",
+        "created_at": "2026-08-03T02:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084102537561747628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1186572635058163714",
+              "start": 3,
+              "username": "oliverzimkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084102537561747628",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6497
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083692446630727902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oliverzimkk: masturbação é necrofilia se você está morto por dentro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1186572635058163714",
+        "conversation_id": "2083692446630727902",
+        "created_at": "2026-08-01T23:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T00:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083692446630727902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083692446630727902",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1676,
+          "impression_count": 671238,
+          "like_count": 40247,
+          "quote_count": 370,
+          "reply_count": 176,
+          "retweet_count": 6497
+        },
+        "reply_settings": "everyone",
+        "text": "masturbação é necrofilia se você está morto por dentro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 521,
+          "like_count": 1665,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-22T09:19:29.000Z",
+        "description": "უფლის იწამე მარად. @arpegue frases que nao sao do player tauz, ele nunca disse isso",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "arpegue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/oliverzimkk/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/oliverzimkk/",
+                "start": 0,
+                "url": "https://t.co/M1LfQeKjCM"
+              }
+            ]
+          }
+        },
+        "id": "1186572635058163714",
+        "location": "zo sp",
+        "name": "Frases Player Tauz",
+        "pinned_tweet_id": "2023542666160730538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081144737352802304/LYxaviAy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4385,
+          "following_count": 918,
+          "like_count": 102042,
+          "listed_count": 3,
+          "media_count": 2875,
+          "tweet_count": 25947
+        },
+        "url": "https://t.co/M1LfQeKjCM",
+        "username": "oliverzimkk",
+        "verified": false
+      }
+    ]
+  }
+}

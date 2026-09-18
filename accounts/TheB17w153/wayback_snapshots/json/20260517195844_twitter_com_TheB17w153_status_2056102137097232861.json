@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2056094212559405512",
+    "created_at": "2026-05-17T19:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T20:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056102137097232861"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2053116713692966913",
+          "start": 0,
+          "username": "FREUNDIS4021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056102137097232861",
+    "in_reply_to_user_id": "2053116713692966913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056094212559405512",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FREUNDIS4021 p4 东拼西凑可以搞个combo出来，请自行测试具体剂量\n主要是凑个SNDRA\n比如isoproscaline + Vyvanse或者4HOMET + 5MMPA这样子 \n但是我不会认为有任何一种东西可以替代mdma 如果有最接近的只有2cb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056094206913892353",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIi2yZvXUAEeYZ-.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056094205924012033",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIi2yWDW8AEixCS.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056094205903044608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIi2yV-XAAASnmV.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2056094205915590656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIi2yWBWcAAaOzU.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2056094212559405512",
+        "created_at": "2026-05-17T19:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056102137097232861"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2053116713692966913",
+              "start": 0,
+              "username": "FREUNDIS4021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056102137097232861",
+        "in_reply_to_user_id": "2053116713692966913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056094212559405512",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FREUNDIS4021 p4 东拼西凑可以搞个combo出来，请自行测试具体剂量\n主要是凑个SNDRA\n比如isoproscaline + Vyvanse或者4HOMET + 5MMPA这样子 \n但是我不会认为有任何一种东西可以替代mdma 如果有最接近的只有2cb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056094206913892353",
+            "3_2056094205924012033",
+            "3_2056094205903044608",
+            "3_2056094205915590656"
+          ]
+        },
+        "author_id": "2053116713692966913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056094212559405512",
+        "created_at": "2026-05-17T19:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T20:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056094212559405512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJpb7Oa8Z4",
+              "end": 186,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2056094212559405512/photo/1",
+              "media_key": "3_2056094206913892353",
+              "start": 163,
+              "url": "https://t.co/dJpb7Oa8Z4"
+            },
+            {
+              "display_url": "pic.x.com/dJpb7Oa8Z4",
+              "end": 186,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2056094212559405512/photo/1",
+              "media_key": "3_2056094205924012033",
+              "start": 163,
+              "url": "https://t.co/dJpb7Oa8Z4"
+            },
+            {
+              "display_url": "pic.x.com/dJpb7Oa8Z4",
+              "end": 186,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2056094212559405512/photo/1",
+              "media_key": "3_2056094205903044608",
+              "start": 163,
+              "url": "https://t.co/dJpb7Oa8Z4"
+            },
+            {
+              "display_url": "pic.x.com/dJpb7Oa8Z4",
+              "end": 186,
+              "expanded_url": "https://x.com/FREUNDIS4021/status/2056094212559405512/photo/1",
+              "media_key": "3_2056094205915590656",
+              "start": 163,
+              "url": "https://t.co/dJpb7Oa8Z4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056094212559405512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1苯海拉明 普瑞巴林 愈美片美金刚 晚安（但是有几个是谵妄出幻觉 我不太推荐\np2 300-600+mg 口哨糖dxm含量一般是7.9mg-15mg，所以可以自己从300mg慢慢加\np3长期滥用的话就会 你短期隔个几周o 就不会上瘾了\np4是共情剂+兴奋剂。容易获得的话就咖啡因，和一些日本止咳药，也可以找药商买点兴奋类的 https://t.co/dJpb7Oa8Z4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "@B17w153 原账号被shadowban了｜名字头像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 76,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 49
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-09T14:16:39.000Z",
+        "description": "废物daze⭐️卢关寻回中\n提问箱：https://t.co/St6DRfqBjY\n着急的可以直接私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 41,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 18,
+                "url": "https://t.co/St6DRfqBjY"
+              }
+            ]
+          }
+        },
+        "id": "2053116713692966913",
+        "name": "我是废物",
+        "pinned_tweet_id": "2053119419383988699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053117224747945988/DuiogWip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 328,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 49
+        },
+        "username": "FREUNDIS4021",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2057442037356732717",
+    "created_at": "2026-05-21T18:24:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T19:24:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057527989601280453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2026876224589701120",
+          "start": 0,
+          "username": "R1k0xo33w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057527989601280453",
+    "in_reply_to_user_id": "2026876224589701120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057479539413098894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1k0xo33w 阿普加weed之后在超市一边偷一边吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2057442037356732717",
+        "created_at": "2026-05-21T18:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T19:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057527989601280453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2026876224589701120",
+              "start": 0,
+              "username": "R1k0xo33w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057527989601280453",
+        "in_reply_to_user_id": "2026876224589701120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057479539413098894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1k0xo33w 阿普加weed之后在超市一边偷一边吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026876224589701120",
+        "conversation_id": "2057442037356732717",
+        "created_at": "2026-05-21T15:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T16:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057479539413098894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057479539413098894",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057442037356732717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 那很爽了 顺便在凌晨挑战看到一家便利店就买酒直到有人倒下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "@B17w153 原账号被shadowban了｜名字头像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 77,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 77
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-26T04:25:31.000Z",
+        "description": "一直在找我是谁#颓废磕药#是个可爱的孩子#",
+        "id": "2026876224589701120",
+        "name": "鲤",
+        "pinned_tweet_id": "2035834585226019160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038180445620453376/K2BlHK_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 99,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 562
+        },
+        "username": "R1k0xo33w",
+        "verified": false
+      }
+    ]
+  }
+}

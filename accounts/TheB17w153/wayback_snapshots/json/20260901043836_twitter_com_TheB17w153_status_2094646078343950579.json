@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2094646078343950579",
+    "created_at": "2026-09-01T04:38:36.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T05:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094646078343950579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063266311254552576",
+          "start": 3,
+          "username": "17nuun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094646078343950579",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094602490495013194",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @17nuun: 年轻人饭桌教程\n\n1.和长辈吃饭一定要端菜（这样才能把喜欢吃的菜放到自己面前）\n\n2.如果端鱼，鱼头一定要对着长辈（鱼头没有肉，这样鱼肚子的肉才是你的）\n\n3.吃饭时翻菜是不礼貌的（如果夹到不喜欢的东西就夹给长辈，或者小孩。这叫尊老爱幼）\n\n4.吃饭时请…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2094646078343950579",
+        "created_at": "2026-09-01T04:38:36.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T05:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094646078343950579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063266311254552576",
+              "start": 3,
+              "username": "17nuun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094646078343950579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094602490495013194",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @17nuun: 年轻人饭桌教程\n\n1.和长辈吃饭一定要端菜（这样才能把喜欢吃的菜放到自己面前）\n\n2.如果端鱼，鱼头一定要对着长辈（鱼头没有肉，这样鱼肚子的肉才是你的）\n\n3.吃饭时翻菜是不礼貌的（如果夹到不喜欢的东西就夹给长辈，或者小孩。这叫尊老爱幼）\n\n4.吃饭时请…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063266311254552576",
+        "conversation_id": "2094602490495013194",
+        "created_at": "2026-09-01T01:45:24.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T02:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094602490495013194"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094602490495013194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 677,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "年轻人饭桌教程\n\n1.和长辈吃饭一定要端菜（这样才能把喜欢吃的菜放到自己面前）\n\n2.如果端鱼，鱼头一定要对着长辈（鱼头没有肉，这样鱼肚子的肉才是你的）\n\n3.吃饭时翻菜是不礼貌的（如果夹到不喜欢的东西就夹给长辈，或者小孩。这叫尊老爱幼）\n\n4.吃饭时请主动倒饮料（倒完饮料的瓶子在你手上随便喝）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2094646078343950579",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 643,
+          "like_count": 1937,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 669
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T14:27:34.000Z",
+        "description": "依然爱着大家/需要倾诉,水母永远都在\n剩余存活日期？？？天\nmtf(x)/ 年龄?? / 双相 /BPD/ INFP / 💊od/♡永远爱着你/小号@danshuishuimu\n永远的爱人@dnshu135734\n频道链接https://t.co/vAwYIwo3nv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "danshuishuimu"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/dnshu135734Aur…",
+                "end": 134,
+                "expanded_url": "https://t.me/dnshu135734Aureliax17",
+                "start": 111,
+                "url": "https://t.co/vAwYIwo3nv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dnshuiarueliax…",
+                "end": 23,
+                "expanded_url": "http://t.me/dnshuiarueliax17",
+                "start": 0,
+                "url": "https://t.co/WDIrUwiXtj"
+              }
+            ]
+          }
+        },
+        "id": "2063266311254552576",
+        "is_identity_verified": false,
+        "location": "正在拥抱你",
+        "most_recent_tweet_id": "2094636358853869646",
+        "name": "海月水母x17",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063266311254552576/1782389209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070116349503053824/Kkv2q4Vf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2701,
+          "following_count": 288,
+          "like_count": 1950,
+          "listed_count": 3,
+          "media_count": 180,
+          "tweet_count": 1427
+        },
+        "url": "https://t.co/WDIrUwiXtj",
+        "username": "17nuun",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

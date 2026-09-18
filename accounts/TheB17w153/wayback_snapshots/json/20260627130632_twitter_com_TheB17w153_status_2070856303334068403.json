@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2070807783260475770",
+    "created_at": "2026-06-27T13:06:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T14:06:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070856303334068403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061831120292020225",
+          "start": 0,
+          "username": "ElonloveDEA"
+        },
+        {
+          "end": 27,
+          "id": "2065149033379971072",
+          "start": 13,
+          "username": "Lomyral896444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070856303334068403",
+    "in_reply_to_user_id": "2061831120292020225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070856144784884011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElonloveDEA @Lomyral896444 早就互换了捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2070807783260475770",
+        "created_at": "2026-06-27T13:06:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070856303334068403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061831120292020225",
+              "start": 0,
+              "username": "ElonloveDEA"
+            },
+            {
+              "end": 27,
+              "id": "2065149033379971072",
+              "start": 13,
+              "username": "Lomyral896444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070856303334068403",
+        "in_reply_to_user_id": "2061831120292020225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070856144784884011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElonloveDEA @Lomyral896444 早就互换了捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061831120292020225",
+        "conversation_id": "2070807783260475770",
+        "created_at": "2026-06-27T13:05:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T14:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070856144784884011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065149033379971072",
+              "start": 0,
+              "username": "Lomyral896444"
+            },
+            {
+              "end": 26,
+              "id": "1571848301594705927",
+              "start": 15,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070856144784884011",
+        "in_reply_to_user_id": "2065149033379971072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070807783260475770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lomyral896444 @TheB17w153 你们在互换账号吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 465,
+          "like_count": 1280,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-02T15:24:54.000Z",
+        "description": "已转生，互关寻回中",
+        "id": "2061831120292020225",
+        "location": "Edmonton, Alberta",
+        "name": "VVV3.0",
+        "pinned_tweet_id": "2061832974522581286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061832445734080512/mf3oJak7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 154,
+          "like_count": 457,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "ElonloveDEA",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-11T19:09:32.000Z",
+        "description": "enby，he/they|\nINTP/重抑中焦|\n碎碎念推|\n这里是四号机，互关寻回中|最爱的骚b❤️：@TheB17w153|申必内容：@Zukawbit",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 52,
+                "username": "TheB17w153"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "username": "Zukawbit"
+              }
+            ]
+          }
+        },
+        "id": "2065149033379971072",
+        "name": "Lomyral 4.0",
+        "pinned_tweet_id": "2070796191520952604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065150134065954816/FdqO6LUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 426,
+          "like_count": 3241,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 738
+        },
+        "url": "",
+        "username": "Lomyral896444",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2059092186722189513",
+    "created_at": "2026-05-26T18:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T19:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059338392404725816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1106987880566513664",
+          "start": 0,
+          "username": "gaystaipo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059338392404725816",
+    "in_reply_to_user_id": "1106987880566513664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059092186722189513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaystaipo 人不吸毒能行吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059092186722189513].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059092186722189513",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059092186722189513"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2059092186722189513",
+        "created_at": "2026-05-26T18:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T19:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059338392404725816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1106987880566513664",
+              "start": 0,
+              "username": "gaystaipo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059338392404725816",
+        "in_reply_to_user_id": "1106987880566513664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059092186722189513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaystaipo 人不吸毒能行吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 246,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-16T18:37:32.000Z",
+        "description": "End the war on drugs！药物文化研究，成瘾问题咨询和支持。安全用药知识，减害信息！药物是政治的。一个很不好的DJ/制作人，药物与现代音乐历史，身体政治与情欲痴迷！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sredemption.com",
+                "end": 23,
+                "expanded_url": "http://sredemption.com",
+                "start": 0,
+                "url": "https://t.co/ddzS95s0dU"
+              }
+            ]
+          }
+        },
+        "id": "1106987880566513664",
+        "location": "Guangzhou",
+        "name": "Gaystaatspo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054816025255071744/mJmEBR6i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 876,
+          "like_count": 1082,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/ddzS95s0dU",
+        "username": "gaystaipo",
+        "verified": false
+      }
+    ]
+  }
+}

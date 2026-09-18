@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2056031140159619092",
+    "created_at": "2026-05-17T15:28:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056034181864731056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2043756970151211008",
+          "start": 0,
+          "username": "else69761"
+        },
+        {
+          "end": 26,
+          "id": "1638959586140098560",
+          "start": 11,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056034181864731056",
+    "in_reply_to_user_id": "2043756970151211008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056033409114452322",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@else69761 @jiuyouforwhite 欣快很好的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2056031140159619092",
+        "created_at": "2026-05-17T15:28:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056034181864731056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2043756970151211008",
+              "start": 0,
+              "username": "else69761"
+            },
+            {
+              "end": 26,
+              "id": "1638959586140098560",
+              "start": 11,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056034181864731056",
+        "in_reply_to_user_id": "2043756970151211008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056033409114452322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@else69761 @jiuyouforwhite 欣快很好的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043756970151211008",
+        "conversation_id": "2056031140159619092",
+        "created_at": "2026-05-17T15:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056033409114452322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056033409114452322",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056032156368150914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 呃，这个怎么说呢？并且根据我搜到的所有全局效果来看的话，就这个东西好像不好玩啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "@B17w153 原账号被shadowban了｜秽土转生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 75,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-13T18:23:54.000Z",
+        "description": "嗯，想要抽抽大麻，想要吃策划药什么的，我站在od圈这一边",
+        "id": "2043756970151211008",
+        "location": "安徽省",
+        "name": "else",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062701526261760/NSLbXR-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 23,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 105
+        },
+        "username": "else69761",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "无性别enby/无浪漫倾向泛性恋/药理帮助/碎碎念/哲思/回fo(没回私我)/备用号:@jiuyouforwhite2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 43,
+                "username": "jiuyouforwhite2"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "Thrillingly pointless",
+        "name": "反胃的Sisyphus",
+        "pinned_tweet_id": "2051091519847698605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043493826246082560/syYxrkxW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 1432,
+          "like_count": 4424,
+          "listed_count": 1,
+          "media_count": 249,
+          "tweet_count": 2222
+        },
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

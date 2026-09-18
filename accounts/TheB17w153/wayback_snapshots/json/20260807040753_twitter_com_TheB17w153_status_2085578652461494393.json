@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2085578652461494393",
+    "created_at": "2026-08-07T04:07:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:07:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085578652461494393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jy666992/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/jy666992/status/2085069566112334333",
+          "start": 18,
+          "url": "https://t.co/wkUiZOh3lA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085578652461494393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085069566112334333",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "正在学习控制pyrros的强迫补药 https://t.co/wkUiZOh3lA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2085578652461494393",
+        "created_at": "2026-08-07T04:07:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085578652461494393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jy666992/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/jy666992/status/2085069566112334333",
+              "start": 18,
+              "url": "https://t.co/wkUiZOh3lA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085578652461494393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085069566112334333",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "正在学习控制pyrros的强迫补药 https://t.co/wkUiZOh3lA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809233055196073984",
+        "conversation_id": "2085069566112334333",
+        "created_at": "2026-08-05T18:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T19:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085069566112334333"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085069566112334333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4537,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "暂时学会控制冰的强迫性补量\n关于用量至少在我身上的表现形式差很多\n当做哌甲酯用挺好的 而且算下来价格好便宜\n偶尔玩一次 很好很惬意\n一切过去 风平浪静"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 520,
+          "like_count": 1760,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 575
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:29:19.000Z",
+        "description": "",
+        "id": "1809233055196073984",
+        "name": "烨篮子",
+        "pinned_tweet_id": "2074687552712548840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065770842873905152/ira4UqJF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1482,
+          "following_count": 434,
+          "like_count": 2204,
+          "listed_count": 1,
+          "media_count": 367,
+          "tweet_count": 1541
+        },
+        "url": "",
+        "username": "Jy666992",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2055972275292340571",
+    "created_at": "2026-05-17T13:05:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T14:05:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055998128797684113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055998128797684113",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055997819857854731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug b🤓d true music"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 164,
+        "media_key": "16_2055997635547582464",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HIhe9NXbUAAdwvJ.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HIhe9NXbUAAdwvJ.mp4"
+          }
+        ],
+        "width": 164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2055972275292340571",
+        "created_at": "2026-05-17T13:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055998128797684113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055998128797684113",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055997819857854731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug b🤓d true music"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2055997635547582464"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2055972275292340571",
+        "created_at": "2026-05-17T13:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055997819857854731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0xLxG78Uf5",
+              "end": 35,
+              "expanded_url": "https://x.com/Idontselldrug/status/2055997819857854731/photo/1",
+              "media_key": "16_2055997635547582464",
+              "start": 12,
+              "url": "https://t.co/0xLxG78Uf5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055997819857854731",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055994552708981084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 https://t.co/0xLxG78Uf5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "@B17w153 原账号被shadowban了｜秽土转生",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054963249859461120/j5QDFum8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 72,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 280,
+          "like_count": 2230,
+          "listed_count": 1,
+          "media_count": 490,
+          "tweet_count": 2858
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      }
+    ]
+  }
+}

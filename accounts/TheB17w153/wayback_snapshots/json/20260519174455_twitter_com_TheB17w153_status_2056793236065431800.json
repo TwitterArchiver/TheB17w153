@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2056621900558905761",
+    "created_at": "2026-05-19T17:44:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:44:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056793236065431800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2019767387244105728",
+          "start": 0,
+          "username": "JIAN222100"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056793236065431800",
+    "in_reply_to_user_id": "2019767387244105728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056621900558905761",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIAN222100 品客弗洛伊德吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056621891515977728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIqWtsEaEAAN-_l.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2056621900558905761",
+        "created_at": "2026-05-19T17:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056793236065431800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2019767387244105728",
+              "start": 0,
+              "username": "JIAN222100"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056793236065431800",
+        "in_reply_to_user_id": "2019767387244105728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056621900558905761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIAN222100 品客弗洛伊德吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056621891515977728"
+          ]
+        },
+        "author_id": "2019767387244105728",
+        "conversation_id": "2056621900558905761",
+        "created_at": "2026-05-19T06:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056621900558905761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3xykMXlI5t",
+              "end": 28,
+              "expanded_url": "https://x.com/JIAN222100/status/2056621900558905761/photo/1",
+              "media_key": "3_2056621891515977728",
+              "start": 5,
+              "url": "https://t.co/3xykMXlI5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056621900558905761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不错不错 https://t.co/3xykMXlI5t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "@B17w153 原账号被shadowban了｜名字头像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 76,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 64
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-06T13:37:37.000Z",
+        "description": "龙丽宇宙",
+        "id": "2019767387244105728",
+        "name": "一头忧郁的猪",
+        "pinned_tweet_id": "2056541003008680190",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055472499593457664/E-D6pXzo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 1,
+          "like_count": 933,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 50
+        },
+        "username": "JIAN222100",
+        "verified": false
+      }
+    ]
+  }
+}

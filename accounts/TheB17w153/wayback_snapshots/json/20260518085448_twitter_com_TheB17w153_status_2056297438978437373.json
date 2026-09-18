@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2056094212559405512",
+    "created_at": "2026-05-18T08:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056297438978437373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        },
+        {
+          "end": 28,
+          "id": "2053116713692966913",
+          "start": 15,
+          "username": "FREUNDIS4021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056297438978437373",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056297130780946560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug @FREUNDIS4021 5apb搞不到吧 不太易获取"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2056094212559405512",
+        "created_at": "2026-05-18T08:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056297438978437373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            },
+            {
+              "end": 28,
+              "id": "2053116713692966913",
+              "start": 15,
+              "username": "FREUNDIS4021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056297438978437373",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056297130780946560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug @FREUNDIS4021 5apb搞不到吧 不太易获取"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986452594206838785",
+        "conversation_id": "2056094212559405512",
+        "created_at": "2026-05-18T08:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056297130780946560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            },
+            {
+              "end": 25,
+              "id": "2053116713692966913",
+              "start": 12,
+              "username": "FREUNDIS4021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056297130780946560",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056102137097232861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 @FREUNDIS4021 洋人说是4homet+2fma+5apb这样子的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "@B17w153 原账号被shadowban了｜名字头像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 75,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 52
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "idontselldrug",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "location": "Edmonton, Alberta",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 280,
+          "like_count": 2236,
+          "listed_count": 1,
+          "media_count": 490,
+          "tweet_count": 2862
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-09T14:16:39.000Z",
+        "description": "废物daze⭐️卢关寻回中\n提问箱：https://t.co/St6DRfqBjY\n着急的可以直接私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "miyu.link/Freundis",
+                "end": 41,
+                "expanded_url": "https://miyu.link/Freundis",
+                "start": 18,
+                "url": "https://t.co/St6DRfqBjY"
+              }
+            ]
+          }
+        },
+        "id": "2053116713692966913",
+        "name": "我是废物",
+        "pinned_tweet_id": "2053119419383988699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053117224747945988/DuiogWip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 344,
+          "like_count": 101,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 52
+        },
+        "username": "FREUNDIS4021",
+        "verified": false
+      }
+    ]
+  }
+}

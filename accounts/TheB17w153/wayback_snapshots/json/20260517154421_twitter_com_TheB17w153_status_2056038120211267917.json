@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2048889353339027700",
+    "created_at": "2026-05-17T15:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056038120211267917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1753386090143354880",
+          "start": 0,
+          "username": "HanQWQ457437"
+        },
+        {
+          "end": 22,
+          "id": "1849183768445353984",
+          "start": 14,
+          "username": "B17w153"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056038120211267917",
+    "in_reply_to_user_id": "1753386090143354880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052883442233405790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HanQWQ457437 @B17w153 🫪🫣🫪🫣🫪🫣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2048889353339027700",
+        "created_at": "2026-05-17T15:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056038120211267917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1753386090143354880",
+              "start": 0,
+              "username": "HanQWQ457437"
+            },
+            {
+              "end": 22,
+              "id": "1849183768445353984",
+              "start": 14,
+              "username": "B17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056038120211267917",
+        "in_reply_to_user_id": "1753386090143354880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052883442233405790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HanQWQ457437 @B17w153 🫪🫣🫪🫣🫪🫣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753386090143354880",
+        "conversation_id": "2048889353339027700",
+        "created_at": "2026-05-08T22:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T23:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052883442233405790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1849183768445353984",
+              "start": 0,
+              "username": "B17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052883442233405790",
+        "in_reply_to_user_id": "1849183768445353984",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048889353339027700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@B17w153 😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "@B17w153 原账号被shadowban了｜名字头像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 76,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 41
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-02T11:53:25.000Z",
+        "description": "08年2月/大一/性别男  欢迎找我聊天，我很需要人类陪我🥺  🚪100cny🤤 支持加密货币🤤🤤",
+        "id": "1753386090143354880",
+        "location": "City of London, London",
+        "name": "Accelerator🇦🇺",
+        "pinned_tweet_id": "2054129295426191390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055895010135126016/RMgJOTkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 992,
+          "like_count": 2593,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 723
+        },
+        "username": "HanQWQ457437",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "c'est la vie 09.16.23 apocalypse｜小号@TheB17w153",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "TheB17w153"
+              }
+            ]
+          }
+        },
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917862637607718912/s4EWT3Mw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 240,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 553
+        },
+        "username": "B17w153",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057962614777597952"
+      ]
+    },
+    "author_id": "1571848301594705927",
+    "conversation_id": "2057962622042116252",
+    "created_at": "2026-05-22T23:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T00:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057962622042116252"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FAuLnEBhhn",
+          "end": 23,
+          "expanded_url": "https://x.com/TheB17w153/status/2057962622042116252/photo/1",
+          "media_key": "3_2057962614777597952",
+          "start": 0,
+          "url": "https://t.co/FAuLnEBhhn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057962622042116252",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/FAuLnEBhhn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 466,
+        "media_key": "3_2057962614777597952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI9aGDbaUAAyIQB.jpg",
+        "width": 700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057962614777597952"
+          ]
+        },
+        "author_id": "1571848301594705927",
+        "conversation_id": "2057962622042116252",
+        "created_at": "2026-05-22T23:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T00:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057962622042116252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FAuLnEBhhn",
+              "end": 23,
+              "expanded_url": "https://x.com/TheB17w153/status/2057962622042116252/photo/1",
+              "media_key": "3_2057962614777597952",
+              "start": 0,
+              "url": "https://t.co/FAuLnEBhhn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057962622042116252",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FAuLnEBhhn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "03 男 \n@B17w153 原账号被shadowban了\n名字头 像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 93,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 85
+        },
+        "username": "TheB17w153",
+        "verified": false
+      }
+    ]
+  }
+}

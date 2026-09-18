@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2058199986274439673",
+    "created_at": "2026-05-23T19:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T20:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058267680541663340"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1540268150406537216",
+          "start": 0,
+          "username": "aabanypp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058267680541663340",
+    "in_reply_to_user_id": "1540268150406537216",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058262476786155796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aabanypp 天才！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2058199986274439673",
+        "created_at": "2026-05-23T19:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058267680541663340"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1540268150406537216",
+              "start": 0,
+              "username": "aabanypp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058267680541663340",
+        "in_reply_to_user_id": "1540268150406537216",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058262476786155796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aabanypp 天才！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1540268150406537216",
+        "conversation_id": "2058199986274439673",
+        "created_at": "2026-05-23T19:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058262476786155796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058262476786155796",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058199986274439673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 是的是的我在药效还没过的时候去穿孔好爽！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "03 男 江苏\n@B17w153 原账号被shadowban了\n名字头 像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 168,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 107
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-24T09:38:50.000Z",
+        "description": "一个神秘的人。\n想要互fo我会全部回fo！（只看黄的顺男除外）",
+        "id": "1540268150406537216",
+        "name": "睡个好觉吧！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000939898447257606/6w9it0AW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 58,
+          "like_count": 313,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 200
+        },
+        "username": "aabanypp",
+        "verified": false
+      }
+    ]
+  }
+}

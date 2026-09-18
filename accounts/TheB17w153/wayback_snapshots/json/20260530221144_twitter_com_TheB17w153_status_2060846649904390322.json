@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2060846090065473736",
+    "created_at": "2026-05-30T22:11:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T23:11:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060846649904390322"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060846649904390322",
+    "in_reply_to_user_id": "1571848301594705927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060846090065473736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有着比肩2倍flakka的负面效果的同时没有一个pyrro应有的欣快\n具体表现为口服鼻吸无苯丙胺样欣快以及过长(≧5小时)的刺激以及心动过速\n烫吸需要三大口连吸，欣快感在5.5/10 alpha-pvp，随之而来的就是巨大的焦虑与再补药倾向\n性欲提升有限，edging似乎并不好玩\n总结：4/10，不值得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2060846090065473736",
+        "created_at": "2026-05-30T22:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060846649904390322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060846649904390322",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060846090065473736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有着比肩2倍flakka的负面效果的同时没有一个pyrro应有的欣快\n具体表现为口服鼻吸无苯丙胺样欣快以及过长(≧5小时)的刺激以及心动过速\n烫吸需要三大口连吸，欣快感在5.5/10 alpha-pvp，随之而来的就是巨大的焦虑与再补药倾向\n性欲提升有限，edging似乎并不好玩\n总结：4/10，不值得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2060846090065473736",
+        "created_at": "2026-05-30T22:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T23:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060846090065473736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060846090065473736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MDPiHP 80mg trail\nsnorted 30mg smoked 30mg plugged 20mg\navg hr = 160bpm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "叫我比特 03 男 江苏 CN/EN #drugtwt\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "drugtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 264,
+          "like_count": 187,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 192
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      }
+    ]
+  }
+}

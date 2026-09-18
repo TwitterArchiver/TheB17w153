@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2071559959897333834",
+    "created_at": "2026-06-29T15:16:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T16:16:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071613739569463398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1693842830173831168",
+          "start": 0,
+          "username": "hao14083"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071613739569463398",
+    "in_reply_to_user_id": "1693842830173831168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071610021348266136",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hao14083 自介条有哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2071559959897333834",
+        "created_at": "2026-06-29T15:16:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:16:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071613739569463398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1693842830173831168",
+              "start": 0,
+              "username": "hao14083"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071613739569463398",
+        "in_reply_to_user_id": "1693842830173831168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071610021348266136",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hao14083 自介条有哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693842830173831168",
+        "conversation_id": "2071559959897333834",
+        "created_at": "2026-06-29T15:01:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T16:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071610021348266136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071610021348266136",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071559959897333834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 在哪里！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 51,
+                "start": 43,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 490,
+          "like_count": 1404,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 499
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T04:29:43.000Z",
+        "description": "我的资料简介，其实不知道应该写什么。我不想给我身上挂几个标签。 呐 #mtx #mtf #ACG #绘画 还是 ……。 呃 唔不喜欢标签来定义自己，就算是别人也亦是如此…啰嗦了，但我不介意嘿嘿 总之来说我会经常发推，嗯对。在寻找存在的意义，努力的幸存………呃对没了 那个我叫面包",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 38,
+                "start": 34,
+                "tag": "mtx"
+              },
+              {
+                "end": 43,
+                "start": 39,
+                "tag": "mtf"
+              },
+              {
+                "end": 48,
+                "start": 44,
+                "tag": "ACG"
+              },
+              {
+                "end": 52,
+                "start": 49,
+                "tag": "绘画"
+              }
+            ]
+          }
+        },
+        "id": "1693842830173831168",
+        "location": "珠三角。。。〃＾▽。，＿一。 上面显示更多记得点！↑ ↑ ↑",
+        "name": "パン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044341056242642944/JTwYJ_oL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 284,
+          "like_count": 530,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 538
+        },
+        "url": "",
+        "username": "hao14083",
+        "verified": false
+      }
+    ]
+  }
+}

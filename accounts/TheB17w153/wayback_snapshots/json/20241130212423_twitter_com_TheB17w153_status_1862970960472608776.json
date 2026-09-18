@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849183768445353984",
+    "conversation_id": "1862970960472608776",
+    "created_at": "2024-11-30T21:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T22:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862970960472608776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "4606491854",
+          "start": 3,
+          "username": "Ripple__Event"
+        },
+        {
+          "end": 33,
+          "id": "1763993257393180672",
+          "start": 19,
+          "username": "El_professorX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862970960472608776",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 294
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862970026073932206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ripple__Event: @El_professorX We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the commu…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "1862970960472608776",
+        "created_at": "2024-11-30T21:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T22:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862970960472608776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "4606491854",
+              "start": 3,
+              "username": "Ripple__Event"
+            },
+            {
+              "end": 33,
+              "id": "1763993257393180672",
+              "start": 19,
+              "username": "El_professorX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862970960472608776",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 294
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862970026073932206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ripple__Event: @El_professorX We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the commu…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4606491854",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          }
+        ],
+        "conversation_id": "1862947709889417598",
+        "created_at": "2024-11-30T21:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T22:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862970026073932206"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 212,
+              "start": 208,
+              "tag": "XRP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1763993257393180672",
+              "start": 0,
+              "username": "El_professorX"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Click here to Participate!",
+              "display_url": "ripplefinance-promotion.com",
+              "end": 250,
+              "expanded_url": "https://ripplefinance-promotion.com/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 227,
+              "status": 200,
+              "title": "Official XRP Airdrop",
+              "unwound_url": "https://ripplefinance-promotion.com/",
+              "url": "https://t.co/o1wMT9Kh7l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862970026073932206",
+        "in_reply_to_user_id": "1763993257393180672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 899,
+          "quote_count": 0,
+          "reply_count": 106,
+          "retweet_count": 294
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862957830573273493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@El_professorX We have defeated the SEC, and now it's time for a massive pump!\n\nAs a token of appreciation for the community's support during this challenging time, we are launching a giveaway of 100,000,000 $XRP!\n\nLearn more: https://t.co/o1wMT9Kh7l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "健全顺直蝈蝻（目前） 农批+撸狗 \n平等地尊重所有人类+无差别攻击其亲属看心情来回切换",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856571385285431296/0al-1Lm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 36
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-19T21:28:21.000Z",
+        "description": "Our mission is to build breakthrough crypto solutions for a world without economic",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ripplefinance-promotion.com",
+                "end": 23,
+                "expanded_url": "https://ripplefinance-promotion.com",
+                "start": 0,
+                "url": "https://t.co/08LMIz2llg"
+              }
+            ]
+          }
+        },
+        "id": "4606491854",
+        "name": "Ripple Event",
+        "pinned_tweet_id": "1862575086328229936",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862569983269642240/X09YQFxD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13650,
+          "following_count": 15,
+          "like_count": 271,
+          "listed_count": 12,
+          "media_count": 69,
+          "tweet_count": 512
+        },
+        "url": "https://t.co/08LMIz2llg",
+        "username": "Ripple__Event",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-02T18:22:52.000Z",
+        "description": "Finance, Fitness, & Dining | Travel More, Worry Less | Trust God | $TSLA $COIN $BTC $SOL $WIF (none of this is financial advice)",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "TSLA"
+              },
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "COIN"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "BTC"
+              },
+              {
+                "end": 88,
+                "start": 84,
+                "tag": "SOL"
+              },
+              {
+                "end": 93,
+                "start": 89,
+                "tag": "WIF"
+              }
+            ]
+          }
+        },
+        "id": "1763993257393180672",
+        "location": "Los Angeles",
+        "name": "Professor X",
+        "pinned_tweet_id": "1765079646998319547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764812110519992320/9ZqfaHiD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 122,
+          "like_count": 1842,
+          "listed_count": 0,
+          "media_count": 571,
+          "tweet_count": 1945
+        },
+        "username": "El_professorX",
+        "verified": true
+      }
+    ]
+  }
+}

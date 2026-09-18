@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2067949147609797088",
+    "created_at": "2026-06-19T13:47:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T14:47:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067967631332983247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2058988352054218752",
+          "start": 0,
+          "username": "Ta1z19"
+        },
+        {
+          "end": 19,
+          "id": "1953475620396298240",
+          "start": 8,
+          "username": "AlanShaw73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067967631332983247",
+    "in_reply_to_user_id": "2058988352054218752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067967478760902959",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ta1z19 @AlanShaw73 小小怪将军和大大怪下士😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2067949147609797088",
+        "created_at": "2026-06-19T13:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067967631332983247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2058988352054218752",
+              "start": 0,
+              "username": "Ta1z19"
+            },
+            {
+              "end": 19,
+              "id": "1953475620396298240",
+              "start": 8,
+              "username": "AlanShaw73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067967631332983247",
+        "in_reply_to_user_id": "2058988352054218752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067967478760902959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ta1z19 @AlanShaw73 小小怪将军和大大怪下士😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058988352054218752",
+        "conversation_id": "2067949147609797088",
+        "created_at": "2026-06-19T13:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T14:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067967478760902959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            },
+            {
+              "end": 23,
+              "id": "1953475620396298240",
+              "start": 12,
+              "username": "AlanShaw73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067967478760902959",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067949147609797088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 @AlanShaw73 是带发小进入X大世界了吗🫣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "只爱 @Lomyral896444\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 37,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 442,
+          "like_count": 902,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 387
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T19:08:55.000Z",
+        "description": "🎵🎸与bass手 不涉政不吸毒喜欢会回fo 正常合理用药 我只是个病人。叫我太子 药理学爱好者/化学爱好者/中西部情绪与华丽金属/我只存在於我",
+        "id": "2058988352054218752",
+        "name": "Ta1z9 3.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058988864229007360/aK0ePUCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 50,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "Ta1z19",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-07T15:17:56.000Z",
+        "description": "叫我六道，不制毒，不吸毒，不卖药，不提倡药物滥用",
+        "id": "1953475620396298240",
+        "name": "AlanShaw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953476767454507008/MDveed33_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 9,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "AlanShaw73",
+        "verified": false
+      }
+    ]
+  }
+}

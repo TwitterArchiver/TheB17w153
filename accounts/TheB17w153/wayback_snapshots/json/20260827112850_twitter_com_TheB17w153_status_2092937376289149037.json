@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2092613848671154364",
+    "created_at": "2026-08-27T11:28:50.000Z",
+    "display_text_range": [
+      25,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092937376289149037"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1959893383633358848",
+          "start": 0,
+          "username": "Cbscfe"
+        },
+        {
+          "end": 24,
+          "id": "2001675650994999296",
+          "start": 8,
+          "username": "Pluralitysubsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092937376289149037",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092875747845357874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cbscfe @Pluralitysubsys 确实很怪，苯环利定衍不吃非得去吃丙替，不知道在想什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2092613848671154364",
+        "created_at": "2026-08-27T11:28:50.000Z",
+        "display_text_range": [
+          25,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092937376289149037"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            },
+            {
+              "end": 24,
+              "id": "2001675650994999296",
+              "start": 8,
+              "username": "Pluralitysubsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092937376289149037",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092875747845357874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe @Pluralitysubsys 确实很怪，苯环利定衍不吃非得去吃丙替，不知道在想什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1959893383633358848",
+        "conversation_id": "2092613848671154364",
+        "created_at": "2026-08-27T07:23:56.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092875747845357874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001675650994999296",
+              "start": 0,
+              "username": "Pluralitysubsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092875747845357874",
+        "in_reply_to_user_id": "2001675650994999296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092613848671154364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pluralitysubsys 到底是谁在吃。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2092937376289149037",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 626,
+          "like_count": 1864,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2092896649576374288",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 720,
+          "like_count": 24937,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 6668
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/plurality…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/pluralitysubsystem2025personal",
+                "start": 0,
+                "url": "https://t.co/Bv5TPNjkK9"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "is_identity_verified": false,
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "most_recent_tweet_id": "2092924264689316300",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2078683512438464528",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2001675650994999296/1778736401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 170,
+          "like_count": 2303,
+          "listed_count": 0,
+          "media_count": 364,
+          "tweet_count": 3955
+        },
+        "url": "https://t.co/Bv5TPNjkK9",
+        "username": "Pluralitysubsys",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

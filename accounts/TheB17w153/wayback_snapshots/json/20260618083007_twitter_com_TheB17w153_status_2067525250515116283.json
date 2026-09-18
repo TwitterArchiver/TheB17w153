@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2067492199923605679",
+    "created_at": "2026-06-18T08:30:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T09:30:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067525250515116283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2036079525172523008",
+          "start": 0,
+          "username": "mnheraaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067525250515116283",
+    "in_reply_to_user_id": "2036079525172523008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067492199923605679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mnheraaa 易得药物门槛低导致不负责任的行为发生的概率更大，而非法药物几乎都是合法药物的存活者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2067492199923605679",
+        "created_at": "2026-06-18T08:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T09:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067525250515116283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2036079525172523008",
+              "start": 0,
+              "username": "mnheraaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067525250515116283",
+        "in_reply_to_user_id": "2036079525172523008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067492199923605679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mnheraaa 易得药物门槛低导致不负责任的行为发生的概率更大，而非法药物几乎都是合法药物的存活者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036079525172523008",
+        "conversation_id": "2067492199923605679",
+        "created_at": "2026-06-18T06:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067492199923605679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067492199923605679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从未有过朋友因吸食非法药物而死亡，但确实有因服用合法药物而死亡的案例……\n我不明白为什么人们说非法药物危害很大，而那些最容易致人死亡的物质却很容易在药店买到 (⁠´⁠-⁠﹏⁠-⁠`⁠；⁠)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "只爱 @Lomyral896444\n叫我比特 03 男 江苏 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 37,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/3BYMTEZtp1"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "location": "空間、事情、時間、事象。",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 434,
+          "like_count": 773,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 354
+        },
+        "url": "https://t.co/3BYMTEZtp1",
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T13:56:26.000Z",
+        "description": "一个年轻、孤独、爱猫且精神不稳定的女孩 🎀@divineleison 女朋友🩸‼️BFF @stonedkangel ❤️‍🩹🎀\n20y 🐾 INFP ❤️‍🩹 sh/drug ‼️ br📍@VirtualShoujo 🎀 @Mnherarin main",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 21,
+                "username": "divineleison"
+              },
+              {
+                "end": 58,
+                "start": 45,
+                "username": "stonedkangel"
+              },
+              {
+                "end": 109,
+                "start": 95,
+                "username": "VirtualShoujo"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "Mnherarin"
+              }
+            ]
+          }
+        },
+        "id": "2036079525172523008",
+        "location": "nb 💢 she/he",
+        "name": "メンヘラ💢",
+        "pinned_tweet_id": "2065668188818301225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065984211945701376/1oOgOe0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 113,
+          "like_count": 1037,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 173
+        },
+        "url": "",
+        "username": "mnheraaa",
+        "verified": false
+      }
+    ]
+  }
+}

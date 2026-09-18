@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849183768445353984",
+    "conversation_id": "1862994198917488799",
+    "created_at": "2024-11-30T22:56:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-30T23:56:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862994198917488799"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "SEC",
+          "probability": 0.865,
+          "start": 54,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "15231144",
+          "start": 3,
+          "username": "Ripple__Events"
+        },
+        {
+          "end": 32,
+          "id": "1001964190112808965",
+          "start": 20,
+          "username": "sas_safrass"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862994198917488799",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 380
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862993724159979695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ripple__Events: @sas_safrass We have defeated the SEC, and now it's time for a Massive Pump!\n\nAs a token of appreciation for the commun…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "1862994198917488799",
+        "created_at": "2024-11-30T22:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T23:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862994198917488799"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "SEC",
+              "probability": 0.865,
+              "start": 54,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "15231144",
+              "start": 3,
+              "username": "Ripple__Events"
+            },
+            {
+              "end": 32,
+              "id": "1001964190112808965",
+              "start": 20,
+              "username": "sas_safrass"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862994198917488799",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 380
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862993724159979695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ripple__Events: @sas_safrass We have defeated the SEC, and now it's time for a Massive Pump!\n\nAs a token of appreciation for the commun…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15231144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          }
+        ],
+        "conversation_id": "1862985733071614212",
+        "created_at": "2024-11-30T22:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T23:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862993724159979695"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 210,
+              "start": 206,
+              "tag": "XRP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1001964190112808965",
+              "start": 0,
+              "username": "sas_safrass"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Click here to Participate!",
+              "display_url": "ripplefinance-promotion.com",
+              "end": 248,
+              "expanded_url": "https://ripplefinance-promotion.com/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 225,
+              "status": 200,
+              "title": "Official XRP Airdrop",
+              "unwound_url": "https://ripplefinance-promotion.com/",
+              "url": "https://t.co/lFU7GBjmIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862993724159979695",
+        "in_reply_to_user_id": "1001964190112808965",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1330,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 380
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862987398688239696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sas_safrass We have defeated the SEC, and now it's time for a Massive Pump!\n\nAs a token of appreciation for the community's support during this challenging time, We are launching a GiveAway of 100.000.000 $XRP.\n\nLearn more: https://t.co/lFU7GBjmIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "健全顺直蝈蝻（目前） 农批+撸狗 \n平等地尊重所有人类+无差别攻击其亲属看心情来回切换",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856571385285431296/0al-1Lm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 180,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 76
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2008-06-25T13:52:49.000Z",
+        "description": "Our mission is to build breakthrough crypto solutions for a world without economic",
+        "id": "15231144",
+        "name": "Ripple Event",
+        "pinned_tweet_id": "1862788496341033099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862787453322416128/pllwwXSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17937,
+          "following_count": 1798,
+          "like_count": 32017,
+          "listed_count": 160,
+          "media_count": 3871,
+          "tweet_count": 26941
+        },
+        "username": "Ripple__Events",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-30T23:10:53.000Z",
+        "description": "Everyone is a genius in a bull market | Not advice of any kind | Opinions my own | EV $bozo of benking @bozobenk - hybrid DeFi buildor. Benker IQ= ~69",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 91,
+                "start": 86,
+                "tag": "bozo"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 112,
+                "start": 103,
+                "username": "bozobenk"
+              }
+            ]
+          }
+        },
+        "id": "1001964190112808965",
+        "location": "🏦",
+        "name": "🏦EVBozo Sas - hybrid benking division",
+        "pinned_tweet_id": "1853224157863133438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827394535975997440/WY0Na8OC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2768,
+          "following_count": 1603,
+          "like_count": 39216,
+          "listed_count": 13,
+          "media_count": 3014,
+          "tweet_count": 10761
+        },
+        "username": "sas_safrass",
+        "verified": true
+      }
+    ]
+  }
+}

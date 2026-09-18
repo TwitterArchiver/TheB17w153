@@ -1,0 +1,391 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1849183768445353984",
+    "conversation_id": "1863179482044998120",
+    "created_at": "2024-12-01T11:12:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T12:12:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1863179482044998120"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 58,
+          "normalized_text": "SEC",
+          "probability": 0.8789,
+          "start": 56,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "15231144",
+          "start": 3,
+          "username": "Ripple__Events"
+        },
+        {
+          "end": 34,
+          "id": "302555211",
+          "start": 20,
+          "username": "MNRaju_crypto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863179482044998120",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 388
+    },
+    "referenced_tweets": [
+      {
+        "id": "1863179006578733177",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ripple__Events: @MNRaju_crypto We have defeated the SEC, and now it's time for a Massive Pump!\n\nAs a token of appreciation for the comm…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1849183768445353984",
+        "conversation_id": "1863179482044998120",
+        "created_at": "2024-12-01T11:12:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T12:12:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863179482044998120"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "SEC",
+              "probability": 0.8789,
+              "start": 56,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "15231144",
+              "start": 3,
+              "username": "Ripple__Events"
+            },
+            {
+              "end": 34,
+              "id": "302555211",
+              "start": 20,
+              "username": "MNRaju_crypto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863179482044998120",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 388
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863179006578733177",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ripple__Events: @MNRaju_crypto We have defeated the SEC, and now it's time for a Massive Pump!\n\nAs a token of appreciation for the comm…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "15231144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Stocks",
+              "id": "847894852779900928",
+              "name": "Stocks & indices"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ripple Cryptocurrency",
+              "id": "1007349748829786112",
+              "name": "Ripple (XRP)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of stocks, e.g., $TRX, $QQQ",
+              "id": "166",
+              "name": "Stocks"
+            },
+            "entity": {
+              "id": "1301953309872332800",
+              "name": "$XRP"
+            }
+          }
+        ],
+        "conversation_id": "1863175613336408142",
+        "created_at": "2024-12-01T11:11:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T12:11:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1863179006578733177"
+        ],
+        "entities": {
+          "cashtags": [
+            {
+              "end": 212,
+              "start": 208,
+              "tag": "XRP"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "302555211",
+              "start": 0,
+              "username": "MNRaju_crypto"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Click here to Participate!",
+              "display_url": "ripplefinance-promotion.com",
+              "end": 249,
+              "expanded_url": "https://ripplefinance-promotion.com/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1862559828620496896/-rWqEDN6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 226,
+              "status": 200,
+              "title": "Official XRP Airdrop",
+              "unwound_url": "https://ripplefinance-promotion.com/",
+              "url": "https://t.co/lFU7GBjmIE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863179006578733177",
+        "in_reply_to_user_id": "302555211",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1115,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 388
+        },
+        "referenced_tweets": [
+          {
+            "id": "1863178060041740609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MNRaju_crypto We have defeated the SEC, and now it's time for a Massive Pump!\n\nAs a token of appreciation for the community's support during this challenging time, We are launching a GiveAway of 100.000.000 $XRP\n\nLearn more: https://t.co/lFU7GBjmIE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-10-23T20:19:21.000Z",
+        "description": "健全顺直蝈蝻（目前） 农批+撸狗 \n平等地尊重所有人类+无差别攻击其亲属看心情来回切换",
+        "id": "1849183768445353984",
+        "name": "B17w153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856571385285431296/0al-1Lm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 29,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 95
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2008-06-25T13:52:49.000Z",
+        "description": "Our mission is to build breakthrough crypto solutions for a world without economic",
+        "id": "15231144",
+        "name": "Ripple Event",
+        "pinned_tweet_id": "1862788496341033099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862787453322416128/pllwwXSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18046,
+          "following_count": 1798,
+          "like_count": 32017,
+          "listed_count": 161,
+          "media_count": 3871,
+          "tweet_count": 27027
+        },
+        "username": "Ripple__Events",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-21T11:31:08.000Z",
+        "description": "#CryptoOG since 2016✨ life, liberty, and Financial Freedom.....Tweets are mostly my own\n$S 💥 $FTM  $FET 🚀  $NEAR 🤖  $RUNE 🎯 $STX 🟧  $SEI",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 90,
+                "start": 88,
+                "tag": "S"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "FTM"
+              },
+              {
+                "end": 103,
+                "start": 99,
+                "tag": "FET"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "NEAR"
+              },
+              {
+                "end": 121,
+                "start": 116,
+                "tag": "RUNE"
+              },
+              {
+                "end": 128,
+                "start": 124,
+                "tag": "STX"
+              },
+              {
+                "end": 136,
+                "start": 132,
+                "tag": "SEI"
+              }
+            ],
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "CryptoOG"
+              }
+            ]
+          }
+        },
+        "id": "302555211",
+        "location": "The Moon",
+        "name": "🐂 🐂🐂 BTC.GOAT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1748174409184219136/QMvv9B2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 648,
+          "following_count": 2082,
+          "like_count": 16853,
+          "listed_count": 16,
+          "media_count": 468,
+          "tweet_count": 7500
+        },
+        "username": "MNRaju_crypto",
+        "verified": true
+      }
+    ]
+  }
+}

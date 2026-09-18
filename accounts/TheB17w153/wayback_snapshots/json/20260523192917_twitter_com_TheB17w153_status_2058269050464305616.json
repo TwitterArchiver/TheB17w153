@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2058104720737312800",
+    "created_at": "2026-05-23T19:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T20:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058269050464305616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1736393672055549952",
+          "start": 0,
+          "username": "NakauMi_515"
+        }
+      ],
+      "urls": [
+        {
+          "description": "PsychonautWiki Journal is an app that helps users log their ingestions, make notes and get an overview of their experiences. It also makes key PsychonautWiki data such as dosage, tolerance, duration and dangerous interaction info accessible offline.",
+          "display_url": "m.psychonautwiki.org/wiki/Psychonau…",
+          "end": 51,
+          "expanded_url": "https://m.psychonautwiki.org/wiki/PsychonautWiki%20Journal",
+          "images": [
+            {
+              "height": 250,
+              "url": "https://pbs.twimg.com/news_img/2058269050976047104/gzBypM6B?format=png&name=orig",
+              "width": 646
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2058269050976047104/gzBypM6B?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 28,
+          "status": 200,
+          "title": "PsychonautWiki Journal",
+          "unwound_url": "https://m.psychonautwiki.org/wiki/PsychonautWiki%20Journal",
+          "url": "https://t.co/aLxen3vWus"
+        },
+        {
+          "display_url": "x.com/pharmacykitty/…",
+          "end": 83,
+          "expanded_url": "https://x.com/pharmacykitty/status/2042667534185300199?s=46",
+          "start": 60,
+          "url": "https://t.co/lpgz2SgKfJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058269050464305616",
+    "in_reply_to_user_id": "1736393672055549952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042667534185300199",
+        "type": "quoted"
+      },
+      {
+        "id": "2058255527742947517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NakauMi_515 官方(超过五个物质需要收费）\nhttps://t.co/aLxen3vWus\n第三方（免费）\nhttps://t.co/lpgz2SgKfJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2058104720737312800",
+        "created_at": "2026-05-23T19:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058269050464305616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736393672055549952",
+              "start": 0,
+              "username": "NakauMi_515"
+            }
+          ],
+          "urls": [
+            {
+              "description": "PsychonautWiki Journal is an app that helps users log their ingestions, make notes and get an overview of their experiences. It also makes key PsychonautWiki data such as dosage, tolerance, duration and dangerous interaction info accessible offline.",
+              "display_url": "m.psychonautwiki.org/wiki/Psychonau…",
+              "end": 51,
+              "expanded_url": "https://m.psychonautwiki.org/wiki/PsychonautWiki%20Journal",
+              "images": [
+                {
+                  "height": 250,
+                  "url": "https://pbs.twimg.com/news_img/2058269050976047104/gzBypM6B?format=png&name=orig",
+                  "width": 646
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2058269050976047104/gzBypM6B?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "PsychonautWiki Journal",
+              "unwound_url": "https://m.psychonautwiki.org/wiki/PsychonautWiki%20Journal",
+              "url": "https://t.co/aLxen3vWus"
+            },
+            {
+              "display_url": "x.com/pharmacykitty/…",
+              "end": 83,
+              "expanded_url": "https://x.com/pharmacykitty/status/2042667534185300199?s=46",
+              "start": 60,
+              "url": "https://t.co/lpgz2SgKfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058269050464305616",
+        "in_reply_to_user_id": "1736393672055549952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042667534185300199",
+            "type": "quoted"
+          },
+          {
+            "id": "2058255527742947517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NakauMi_515 官方(超过五个物质需要收费）\nhttps://t.co/aLxen3vWus\n第三方（免费）\nhttps://t.co/lpgz2SgKfJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861298245642907649",
+        "conversation_id": "2042667391688028453",
+        "created_at": "2026-04-10T18:14:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T19:14:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042667534185300199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Available on iOS",
+              "display_url": "testflight.apple.com/join/4vcA7dY3",
+              "end": 23,
+              "expanded_url": "https://testflight.apple.com/join/4vcA7dY3",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2045986978059972608/4XQrHW9v?format=jpg&name=orig",
+                  "width": 1080
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045986978059972608/4XQrHW9v?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Join the Piru beta",
+              "unwound_url": "https://testflight.apple.com/join/4vcA7dY3",
+              "url": "https://t.co/emMl86yAYS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042667534185300199",
+        "in_reply_to_user_id": "1861298245642907649",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 2206,
+          "like_count": 12,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042667391688028453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/emMl86yAYS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1736393672055549952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2058104720737312800",
+        "created_at": "2026-05-23T18:35:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:35:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058255527742947517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1571848301594705927",
+              "start": 0,
+              "username": "TheB17w153"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058255527742947517",
+        "in_reply_to_user_id": "1571848301594705927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058104720737312800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheB17w153 老大ios怎么下这个软件"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "03 男 江苏\n@B17w153 原账号被shadowban了\n名字头 像不同只是为了方便自己区分",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 8,
+                "username": "B17w153"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 168,
+          "like_count": 55,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 108
+        },
+        "username": "TheB17w153",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-17T14:31:40.000Z",
+        "description": "胃炎又犯了",
+        "id": "1736393672055549952",
+        "location": "Taiwan",
+        "name": "Kictlo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054557250325540864/aSTLTwkt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 109,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 55
+        },
+        "username": "NakauMi_515",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-26T06:38:06.000Z",
+        "description": "https://t.co/rIV0bgjgNo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/pharmacyk…",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/user/pharmacykitty",
+                "start": 0,
+                "url": "https://t.co/rIV0bgjgNo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/pharmacykitty",
+                "end": 23,
+                "expanded_url": "https://throne.com/pharmacykitty",
+                "start": 0,
+                "url": "https://t.co/zgMKHEdR5y"
+              }
+            ]
+          }
+        },
+        "id": "1861298245642907649",
+        "name": "ly",
+        "pinned_tweet_id": "1988005403880210650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057611910376194048/FDRye40K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 413,
+          "like_count": 34166,
+          "listed_count": 3,
+          "media_count": 1352,
+          "tweet_count": 7900
+        },
+        "url": "https://t.co/zgMKHEdR5y",
+        "username": "pharmacykitty",
+        "verified": false
+      }
+    ]
+  }
+}
