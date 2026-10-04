@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1571848301594705927",
+    "conversation_id": "2101093319413846321",
+    "created_at": "2026-09-18T23:37:38.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T00:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101093319413846321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vacue138950/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/vacue138950/status/2100780777361567873",
+          "start": 18,
+          "url": "https://t.co/de7hALSwTA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101093319413846321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100780777361567873",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想到了《Vurt》这本小说，看过没 https://t.co/de7hALSwTA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571848301594705927",
+        "conversation_id": "2101093319413846321",
+        "created_at": "2026-09-18T23:37:38.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T00:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101093319413846321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vacue138950/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/vacue138950/status/2100780777361567873",
+              "start": 18,
+              "url": "https://t.co/de7hALSwTA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101093319413846321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100780777361567873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想到了《Vurt》这本小说，看过没 https://t.co/de7hALSwTA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958507577077342208",
+        "conversation_id": "2100780777361567873",
+        "created_at": "2026-09-18T02:55:42.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T03:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100780777361567873"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100780777361567873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2985,
+          "like_count": 27,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唑吡坦联邦正在思考一个新的可能的药物：\n\n羽渡尘\n\n一种设想中的“记忆存档药物”：它把特定药理状态作为记忆钥匙，将当下的自我状态与情境深度绑定，并在未来再次进入相似状态时重建出一个“过去的自己”供现在的你调用。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-09-19T13:07:47.000Z",
+        "description": "老公 @Lomyral896444 ✌️🥵✌️\n叫我比特 CN/EN #drugtwt 不制毒 不吸毒 不卖药 不提倡药物滥用 所有信息仅以 #harmreduction 为目的\n前地下化学家 教资已被击落 情报中心\n@B17w153 里世界",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 85,
+                "start": 71,
+                "tag": "harmreduction"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "Lomyral896444"
+              },
+              {
+                "end": 117,
+                "start": 109,
+                "username": "B17w153"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/b17w153",
+                "end": 23,
+                "expanded_url": "https://ngl.link/b17w153",
+                "start": 0,
+                "url": "https://t.co/nRPLhhLMwM"
+              }
+            ]
+          }
+        },
+        "id": "1571848301594705927",
+        "is_identity_verified": false,
+        "location": "空間、事情、時間、事象。",
+        "most_recent_tweet_id": "2101093319413846321",
+        "name": "B17w153_backup",
+        "pinned_tweet_id": "2057442037356732717",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1571848301594705927/1781977588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056014889022582784/xS7np6lx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 569,
+          "following_count": 647,
+          "like_count": 2012,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/nRPLhhLMwM",
+        "username": "TheB17w153",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Signal VacueNexus.99 | Responsible Drug Use | 空宇回寰無駐形，道極荒墟不聞歌 | qpr: @Citrus_amara |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 118,
+                "username": "Citrus_amara"
+              }
+            ]
+          }
+        },
+        "id": "1958507577077342208",
+        "is_identity_verified": false,
+        "location": "幻想郷",
+        "most_recent_tweet_id": "2100787178578350444",
+        "name": "Vacue",
+        "pinned_tweet_id": "1997401990079623617",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958507577077342208/1761901579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 800,
+          "like_count": 4123,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1345
+        },
+        "url": "",
+        "username": "Vacue138950",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
